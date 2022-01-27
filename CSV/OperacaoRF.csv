@@ -1,6 +1,6 @@
 rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 01/01/2016;Saldo Inicial;BB;REF DI;BB Ref DI Plus Est;0;1677,31
-31/01/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;25000
+31/01/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;25000.0
 31/01/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;103,37
 31/01/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;16731,09;0
 29/02/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000
