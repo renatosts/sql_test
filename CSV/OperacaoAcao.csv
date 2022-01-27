@@ -1,5 +1,5 @@
 oper_data;oper_cv;oper_corret;oper_tipo;oper_ticker;oper_qtd;oper_preco_unit;oper_valor;oper_taxas;oper_ir;oper_moeda
-18/04/2016;C;MyCap;Ação;CSNA3;100;12,18;1218;2,73;0.1;BRL
+18/04/2016;C;MyCap;Ação;CSNA3;100;12,18;1218;2,73;0;BRL
 18/04/2016;C;MyCap;Ação;GGBR4;100;7,52;752;0;0;BRL
 18/04/2016;C;MyCap;Ação;PETR4;100;9,34;934;0;0;BRL
 18/04/2016;C;MyCap;Ação;VALE5;100;14,42;1442;0;0;BRL
