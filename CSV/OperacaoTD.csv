@@ -1,0 +1,96 @@
+oper_data,oper_cv,oper_corret,oper_tipo,oper_vencto,oper_nome,oper_qtd,oper_preco_unit,oper_valor
+2/1/2017,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,1.74,"3,114.45","5,419.14"
+2/1/2017,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,5/15/2035,Tesouro IPCA+ com Juros Semestrais 2035,1.73,"3,161.99","5,470.24"
+3/1/2017,Aplicação,MyCap,Tesouro IPCA+,5/15/2045,Tesouro IPCA+ 2045,2.98,729.53,"2,174.00"
+5/2/2017,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,0.70,"3,173.74","2,221.62"
+7/3/2017,Aplicação,MyCap,Tesouro Selic,3/1/2023,Tesouro SELIC 2023,0.24,"8,935.17","2,144.44"
+7/20/2017,Aplicação,MyCap,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,2.92,"2,106.97","6,152.35"
+8/1/2017,Aplicação,MyCap,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,0.44,"2,139.15",941.23
+9/8/2017,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,1.92,"3,278.89","6,295.47"
+9/21/2017,Aplicação,MyCap,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,4.55,"2,197.36","9,997.99"
+9/21/2017,Aplicação,MyCap,Tesouro Prefixado,1/1/2023,Tesouro Prefixado 2023,15.18,625.76,"9,499.04"
+9/21/2017,Aplicação,MyCap,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,7.82,"1,269.64","9,928.58"
+9/21/2017,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,3.04,"3,284.79","9,985.76"
+11/16/2017,Reinvestimento,MyCap,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,0.09,"1,197.58",107.78
+11/16/2017,Resgate,MyCap,Tesouro Selic,3/1/2023,Tesouro Selic 2023,-0.24,"9,190.72","2,205.77"
+1/3/2018,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,0.93,"3,322.83","3,090.23"
+1/3/2018,Aplicação,MyCap,Tesouro Prefixado,1/1/2023,Tesouro Prefixado 2023,4.75,630.56,"2,995.16"
+2/15/2018,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,0.19,"3,306.90",628.31
+2/27/2018,Resgate,MyCap,Tesouro IPCA+,5/15/2045,Tesouro IPCA+ 2045,-2.98,777.33,"2,316.44"
+5/15/2018,Reinvestimento,MyCap,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,0.09,"1,238.84",111.50
+6/4/2018,Resgate,MyCap,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-7.91,"2,223.95","17,591.44"
+11/16/2018,Reinvestimento,MyCap,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,0.09,"1,389.18",125.03
+11/27/2018,Resgate,MyCap,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,-8.09,"1,356.46","10,973.76"
+11/27/2018,Resgate,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-8.52,"3,408.41","29,039.65"
+11/27/2018,Resgate,MyCap,Tesouro Prefixado,1/1/2023,Tesouro Prefixado 2023,-19.93,692.91,"13,809.70"
+12/6/2018,Aplicação,BB,Tesouro IPCA+ com Juros Semestrais,5/15/2035,Tesouro IPCA+ com Juros Semestrais 2035,1.14,"3,498.86","3,988.70"
+12/20/2018,Aplicação,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,8.60,"3,497.98","30,082.63"
+12/20/2018,Aplicação,MyCap,Tesouro Selic,3/1/2023,Tesouro Selic 2023,4.37,"9,864.21","43,106.60"
+12/20/2018,Aplicação,MyCap,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,20.50,"2,453.47","50,296.14"
+4/11/2019,Resgate,BB,Tesouro IPCA+ com Juros Semestrais,5/15/2035,Tesouro IPCA+ com Juros Semestrais 2035,-1.14,"3,798.15","4,329.89"
+5/15/2019,Reinvestimento,MyCap,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,0.08,"1,658.08",132.65
+7/2/2019,Resgate,MyCap,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,-0.08,"1,814.50",145.16
+7/10/2019,Transf.Custódia,MyCap,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-20.50,0.00,0.00
+7/10/2019,Transf.Custódia,MyCap,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-8.60,0.00,0.00
+7/10/2019,Transf.Custódia,MyCap,Tesouro IPCA+ com Juros Semestrais,5/15/2035,Tesouro IPCA+ com Juros Semestrais 2035,-1.73,0.00,0.00
+7/10/2019,Transf.Custódia,MyCap,Tesouro Selic,3/1/2023,Tesouro Selic 2023,-4.37,0.00,0.00
+7/10/2019,Transf.Custódia,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,20.50,0.00,0.00
+7/10/2019,Transf.Custódia,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,8.60,0.00,0.00
+7/10/2019,Transf.Custódia,XP,Tesouro IPCA+ com Juros Semestrais,5/15/2035,Tesouro IPCA+ com Juros Semestrais 2035,1.73,0.00,0.00
+7/10/2019,Transf.Custódia,XP,Tesouro Selic,3/1/2023,Tesouro Selic 2023,4.37,0.00,0.00
+7/25/2019,Resgate,XP,Tesouro Selic,3/1/2023,Tesouro Selic 2023,-0.63,"10,227.15","6,443.10"
+7/29/2019,Resgate,XP,Tesouro Selic,3/1/2023,Tesouro Selic 2023,-0.13,"10,232.20","1,330.19"
+9/9/2019,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-2.48,"2,792.80","6,926.14"
+9/9/2019,Resgate,XP,Tesouro Selic,3/1/2023,Tesouro Selic 2023,-0.43,"10,302.90","4,430.25"
+9/9/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,5/15/2035,Tesouro IPCA+ com Juros Semestrais 2035,-0.21,"4,197.76",881.53
+9/9/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-1.04,"3,798.70","3,950.65"
+9/13/2019,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-0.89,"2,801.37","2,493.22"
+9/13/2019,Resgate,XP,Tesouro Selic,3/1/2023,Tesouro Selic 2023,-0.16,"10,312.31","1,649.97"
+9/13/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-0.37,"3,805.72","1,408.12"
+9/20/2019,Resgate,XP,Tesouro Selic,3/1/2023,Tesouro Selic 2023,-3.02,"10,323.70","31,177.57"
+10/7/2019,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-0.53,"2,844.38","1,507.52"
+10/7/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-0.39,"3,878.81","1,512.74"
+10/15/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,5/15/2035,Tesouro IPCA+ com Juros Semestrais 2035,-1.52,"4,374.39","6,649.07"
+11/25/2019,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-0.86,"2,911.76","2,504.11"
+11/25/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-0.64,"3,950.88","2,528.56"
+12/12/2019,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-0.34,"2,927.27",995.27
+12/12/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-0.25,"3,982.00",995.50
+12/16/2019,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-4.16,"3,983.98","16,573.36"
+12/26/2019,Aplicação,BB,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,1.70,"3,975.01","6,757.52"
+12/26/2019,Aplicação,BB,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,0.75,"3,977.16","2,982.87"
+1/2/2020,Aplicação,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,0.96,"10,462.94","10,044.42"
+1/7/2020,Aplicação,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,0.34,"10,468.32","3,559.23"
+1/10/2020,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-1.70,"2,943.77","5,004.41"
+1/16/2020,Resgate,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,-0.09,"10,475.56",942.80
+2/14/2020,Resgate,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,-0.95,"10,512.79","9,987.15"
+2/17/2020,Reinvestimento,XP,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,0.04,"2,816.44",112.66
+2/26/2020,Resgate,XP,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-1.75,"3,954.46","6,920.31"
+3/13/2020,Resgate,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,-0.26,"10,538.37","2,739.98"
+4/16/2020,Resgate,XP,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,-0.04,"2,715.07",108.60
+5/4/2020,Aplicação,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,0.47,"10,594.22","4,979.28"
+5/4/2020,Aplicação,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,0.29,"10,594.22","3,072.32"
+5/14/2020,Resgate,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,-0.29,"10,599.48","3,073.85"
+5/19/2020,Resgate,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,-0.01,"10,603.14",106.03
+6/2/2020,Aplicação,XP,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,2.17,"1,779.08","3,860.60"
+7/1/2020,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,1.42,"2,824.83","4,011.26"
+7/30/2020,Resgate,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,-1.42,"2,893.19","4,108.33"
+7/30/2020,Resgate,BB,Tesouro IPCA+ com Juros Semestrais,8/15/2026,Tesouro IPCA+ com Juros Semestrais 2026,-2.45,"4,108.80","10,066.56"
+7/30/2020,Resgate,BB,Tesouro Selic,3/1/2025,Tesouro Selic 2025,-0.46,"10,653.79","4,900.74"
+7/30/2020,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-1.61,"3,114.87","5,014.94"
+7/30/2020,Resgate,XP,Tesouro IPCA+,5/15/2035,Tesouro IPCA+ 2035,-2.17,"1,959.67","4,252.48"
+9/2/2020,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,2.09,"2,876.05","6,010.94"
+9/8/2020,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,0.53,"2,883.03","1,528.01"
+11/12/2020,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,7.00,"2,858.18","20,007.26"
+12/22/2020,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,2.90,"2,973.02","8,621.76"
+1/4/2021,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,4.98,"3,012.68","15,003.15"
+1/21/2021,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,3.05,"2,956.20","9,016.41"
+2/1/2021,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,2.86,"2,979.38","8,521.03"
+3/19/2021,Aplicação,XP,Tesouro Selic,3/1/2027,Tesouro Selic 2027,0.67,"10,588.93","7,094.58"
+5/3/2021,Aplicação,BB,Tesouro IPCA+,8/15/2026,Tesouro IPCA+ 2026,1.02,"2,943.52","3,002.39"
+6/18/2021,Resgate,XP,Tesouro IPCA+,8/15/2024,Tesouro IPCA+ 2024,-12.09,"3,185.83","38,516.68"
+8/6/2021,Aplicação,BB,Tesouro Prefixado,1/1/2026,Tesouro Pre 2026,11.00,673.39,"7,407.29"
+8/6/2021,Aplicação,Inter,Tesouro Prefixado,7/1/2024,Tesouro Pre 2024,10.00,776.30,"7,763.00"
+8/6/2021,Resgate,XP,Tesouro Selic,3/1/2027,Tesouro Selic 2027,-0.67,"10,775.27","7,219.43"
+10/1/2021,Aplicação,Inter,Tesouro Prefixado,7/1/2024,Tesouro Pre 2024,9.12,767.47,"6,999.33"
+11/9/2021,Aplicação,XP,Tesouro Selic,3/1/2027,Tesouro Selic 2027,0.95,"10,952.22","10,404.61"
+11/23/2021,Resgate,XP,Tesouro Selic,3/1/2027,Tesouro SELIC 2027,-0.95,"10,975.32","10,426.55"

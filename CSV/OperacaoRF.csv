@@ -1,0 +1,357 @@
+rf_data,rf_oper,rf_corret,rf_tipo,rf_nome,rf_valor_deb,rf_valor_cred
+1/1/2016,Saldo Inicial,BB,REF DI,BB Ref DI Plus Est,0.00,"1,677.31"
+1/31/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"25,000.00"
+1/31/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,103.37
+1/31/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"16,731.09",0.00
+2/29/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,000.00"
+2/29/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,89.02
+2/29/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"7,158.62",0.00
+3/31/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"46,500.00"
+3/31/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,127.05
+3/31/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,056.55",0.00
+4/30/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"9,000.00"
+4/30/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,406.01
+4/30/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"15,006.63",0.00
+5/31/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"5,000.00"
+5/31/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,309.65
+5/31/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"14,127.77",0.00
+6/30/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,000.00"
+6/30/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,327.35
+6/30/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"11,158.08",0.00
+7/31/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,000.00"
+7/31/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,230.01
+7/31/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"23,712.39",0.00
+8/31/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,000.00"
+8/31/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,119.89
+8/31/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,991.24",0.00
+9/30/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,000.00"
+9/30/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,71.53
+9/30/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,471.72",0.00
+10/31/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"7,900.00"
+10/31/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,30.11
+10/31/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,477.21",0.00
+11/30/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"4,000.00"
+11/30/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,9.69
+11/30/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"3,925.04",0.00
+12/31/2016,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"18,900.00"
+12/31/2016,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,37.84
+12/31/2016,Resgate,BB,REF DI,BB Ref DI Plus Est,"11,291.50",0.00
+1/31/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"25,000.00"
+1/31/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,192.04
+1/31/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,638.46",0.00
+2/28/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,000.00"
+2/28/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,151.39
+2/28/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,712.04",0.00
+3/31/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,500.00"
+3/31/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,123.22
+3/31/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"14,835.86",0.00
+4/30/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,500.00"
+4/30/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,64.71
+4/30/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"8,324.25",0.00
+5/31/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,000.00"
+5/31/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,39.98
+5/31/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"15,791.72",0.00
+6/30/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"10,000.00"
+6/30/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,12.63
+6/30/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"10,012.63",0.00
+7/31/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"10,000.00"
+7/31/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,13.59
+7/31/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"10,013.59",0.00
+8/31/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"10,000.00"
+8/31/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,14.79
+8/31/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,559.67",0.00
+9/30/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"13,000.00"
+9/30/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,22.10
+9/30/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"11,540.80",0.00
+10/31/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"11,000.00"
+10/31/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,25.51
+10/31/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,180.10",0.00
+11/30/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"5,000.00"
+11/30/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,10.64
+11/30/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"8,792.47",0.00
+12/31/2017,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"18,000.00"
+12/31/2017,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,30.30
+12/31/2017,Resgate,BB,REF DI,BB Ref DI Plus Est,"17,455.87",0.00
+1/31/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"11,500.00"
+1/31/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,10.70
+1/31/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"11,249.44",0.00
+2/28/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"12,000.00"
+2/28/2018,Aplicação,BB PJ,REF DI,Coaching BB Invest,0.00,"2,300.00"
+2/28/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,12.36
+2/28/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,3.67
+2/28/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,252.51",0.00
+3/31/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,000.00"
+3/31/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,11.92
+3/31/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,3.00
+3/31/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"5,637.70",0.00
+3/31/2018,Resgate,BB PJ,REF DI,Coaching BB Invest,850.00,0.00
+4/30/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,000.00"
+4/30/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,12.11
+4/30/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,3.16
+4/30/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"4,566.43",0.00
+4/30/2018,Resgate,BB PJ,REF DI,Coaching BB Invest,351.61,0.00
+5/31/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"10,000.00"
+5/31/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,18.15
+5/31/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,3.39
+5/31/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"8,954.36",0.00
+5/31/2018,Resgate,BB PJ,REF DI,Coaching BB Invest,849.06,0.00
+6/30/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"11,000.00"
+6/30/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,17.59
+6/30/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,0.60
+6/30/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,213.94",0.00
+6/30/2018,Resgate,BB PJ,REF DI,Coaching BB Invest,167.01,0.00
+7/31/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"14,000.00"
+7/31/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,34.26
+7/31/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,0.26
+7/31/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"7,792.61",0.00
+8/31/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"5,600.00"
+8/31/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,34.52
+8/31/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,0.33
+8/31/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"7,475.03",0.00
+9/30/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"13,000.00"
+9/30/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,13.32
+9/30/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,0.04
+9/30/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"19,172.76",0.00
+9/30/2018,Resgate,BB PJ,REF DI,Coaching BB Invest,96.77,0.00
+10/31/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"11,000.00"
+10/31/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,19.51
+10/31/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,755.02",0.00
+11/30/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"11,900.00"
+11/30/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,31.65
+11/30/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,597.51",0.00
+12/31/2018,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"13,000.00"
+12/31/2018,Aplicação,BB PJ,REF DI,Coaching BB Invest,0.00,"2,400.00"
+12/31/2018,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,20.83
+12/31/2018,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,1.23
+12/31/2018,Resgate,BB,REF DI,BB Ref DI Plus Est,"16,420.48",0.00
+12/31/2018,Resgate,BB PJ,REF DI,Coaching BB Invest,621.07,0.00
+1/31/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"20,000.00"
+1/31/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,34.66
+1/31/2019,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,7.73
+1/31/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"14,819.86",0.00
+1/31/2019,Resgate,BB PJ,REF DI,Coaching BB Invest,384.94,0.00
+2/28/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,000.00"
+2/28/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,20.75
+2/28/2019,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,1.85
+2/28/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"11,551.74",0.00
+2/28/2019,Resgate,BB PJ,REF DI,Coaching BB Invest,117.23,0.00
+3/31/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"14,000.00"
+3/31/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,12.09
+3/31/2019,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,3.24
+3/31/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"14,419.46",0.00
+3/31/2019,Resgate,BB PJ,REF DI,Coaching BB Invest,50.00,0.00
+4/30/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"13,500.00"
+4/30/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,12.91
+4/30/2019,Rendimentos,BB PJ,REF DI,Coaching BB Invest,0.00,1.60
+4/30/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"10,784.85",0.00
+4/30/2019,Resgate,BB PJ,REF DI,Coaching BB Invest,"1,242.41",0.00
+5/31/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"10,000.00"
+5/31/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,16.27
+5/31/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,814.92",0.00
+6/30/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"10,000.00"
+6/30/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,15.88
+6/30/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"11,032.09",0.00
+7/31/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"9,000.00"
+7/31/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,9.09
+7/31/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"10,922.29",0.00
+8/31/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,000.00"
+8/31/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,7.10
+8/31/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"7,657.39",0.00
+9/30/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"5,500.00"
+9/30/2019,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"10,800.00"
+9/30/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,8.47
+9/30/2019,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,2.92
+9/30/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"5,858.18",0.00
+9/30/2019,Resgate,Inter,CDB,CDB Liquidez Diária,"10,802.92",0.00
+10/31/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,500.00"
+10/31/2019,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"2,500.00"
+10/31/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,6.97
+10/31/2019,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,1.30
+10/31/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"6,506.97",0.00
+10/31/2019,Resgate,Inter,CDB,CDB Liquidez Diária,"2,501.30",0.00
+11/30/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"12,956.16"
+11/30/2019,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"9,800.00"
+11/30/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,1.09
+11/30/2019,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,2.06
+11/30/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"12,915.20",0.00
+11/30/2019,Resgate,Inter,CDB,CDB Liquidez Diária,"9,802.06",0.00
+12/31/2019,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"34,167.47"
+12/31/2019,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"2,500.00"
+12/31/2019,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,1.32
+12/31/2019,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,0.21
+12/31/2019,Resgate,BB,REF DI,BB Ref DI Plus Est,"26,766.52",0.00
+12/31/2019,Resgate,Inter,CDB,CDB Liquidez Diária,"2,500.21",0.00
+1/31/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"16,508.97"
+1/31/2020,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"1,000.00"
+1/31/2020,Aplicação,Inter PJ,CDB,CDB Liquidez Diária,0.00,"1,500.00"
+1/31/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,1.91
+1/31/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.29
+1/31/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"23,007.56",0.00
+1/31/2020,Resgate,Inter,CDB,CDB Liquidez Diária,870.00,0.00
+1/31/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,900.00,0.00
+2/29/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,213.66"
+2/29/2020,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,490.00
+2/29/2020,Aplicação,Inter PJ,CDB,CDB Liquidez Diária,0.00,950.00
+2/29/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.45
+2/29/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,2.13
+2/29/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"6,092.62",0.00
+2/29/2020,Resgate,Inter,CDB,CDB Liquidez Diária,150.00,0.00
+2/29/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,950.31,0.00
+3/31/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,189.74"
+3/31/2020,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"4,800.00"
+3/31/2020,Aplicação,Inter PJ,CDB,CDB Liquidez Diária,0.00,900.00
+3/31/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.71
+3/31/2020,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,3.29
+3/31/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,2.18
+3/31/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"8,123.59",0.00
+3/31/2020,Resgate,Inter,CDB,CDB Liquidez Diária,"5,273.29",0.00
+3/31/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,900.58,0.00
+4/30/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,225.47"
+4/30/2020,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,900.00
+4/30/2020,Aplicação,Inter PJ,CDB,CDB Liquidez Diária,0.00,900.00
+4/30/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.64
+4/30/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.33
+4/30/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"6,193.32",0.00
+4/30/2020,Resgate,Inter,CDB,CDB Liquidez Diária,570.00,0.00
+4/30/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,900.35,0.00
+5/31/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,502.19"
+5/31/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.28
+5/31/2020,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,1.10
+5/31/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.49
+5/31/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"5,235.45",0.00
+5/31/2020,Resgate,Inter,CDB,CDB Liquidez Diária,331.10,0.00
+6/30/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"4,515.75"
+6/30/2020,Aplicação,Inter PJ,CDB,CDB Liquidez Diária,0.00,"2,300.00"
+6/30/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.78
+6/30/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.49
+6/30/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"6,012.77",0.00
+6/30/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,900.19,0.00
+7/31/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"36,903.78"
+7/31/2020,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,600.00
+7/31/2020,Aplicação,Inter PJ,CDB,CDB Liquidez Diária,0.00,"1,850.00"
+7/31/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.63
+7/31/2020,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,0.25
+7/31/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,5.19
+7/31/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"7,608.29",0.00
+7/31/2020,Resgate,Inter,CDB,CDB Liquidez Diária,600.25,0.00
+7/31/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,850.52,0.00
+8/31/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,326.70"
+8/31/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.21
+8/31/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,4.04
+8/31/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"35,427.75",0.00
+8/31/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,900.00,0.00
+9/30/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"4,567.78"
+9/30/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.07
+9/30/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,2.59
+9/30/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"4,457.76",0.00
+9/30/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,550.00,0.00
+10/31/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"5,454.30"
+10/31/2020,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"8,700.00"
+10/31/2020,Aplicação,Inter PJ,CDB,CDB Liquidez Diária,0.00,950.00
+10/31/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.25
+10/31/2020,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,1.26
+10/31/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.65
+10/31/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"5,677.37",0.00
+10/31/2020,Resgate,Inter,CDB,CDB Liquidez Diária,"6,010.00",0.00
+10/31/2020,Resgate,Inter PJ,CDB,CDB Liquidez Diária,"1,266.54",0.00
+11/30/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"4,847.23"
+11/30/2020,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"12,400.00"
+11/30/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.09
+11/30/2020,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,9.53
+11/30/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.54
+11/30/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"5,757.51",0.00
+11/30/2020,Resgate,Inter,CDB,CDB Liquidez Diária,"1,550.00",0.00
+12/31/2020,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"8,735.94"
+12/31/2020,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.30
+12/31/2020,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,6.99
+12/31/2020,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.60
+12/31/2020,Resgate,BB,REF DI,BB Ref DI Plus Est,"8,598.48",0.00
+12/31/2020,Resgate,Inter,CDB,CDB Liquidez Diária,"4,470.00",0.00
+1/31/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"9,825.70"
+1/31/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.26
+1/31/2021,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,1.55
+1/31/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,772.74",0.00
+1/31/2021,Resgate,Inter,CDB,CDB Liquidez Diária,600.00,0.00
+2/28/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"7,948.25"
+2/28/2021,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"127,000.00"
+2/28/2021,Aplicação,MyCap,Crypto,Hashdex,0.00,"3,000.00"
+2/28/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.26
+2/28/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,79.87
+2/28/2021,Rendimentos,MyCap,Crypto,Hashdex,49.94,0.00
+2/28/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"7,101.64",0.00
+2/28/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"6,400.00",0.00
+3/31/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"4,033.91"
+3/31/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.17
+3/31/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,50.43
+3/31/2021,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,3.19
+3/31/2021,Rendimentos,MyCap,Crypto,Hashdex,0.00,145.39
+3/31/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"5,157.16",0.00
+3/31/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"58,910.00",0.00
+4/30/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"6,280.04"
+4/30/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,0.67
+4/30/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,93.95
+4/30/2021,Rendimentos,MyCap,Crypto,Hashdex,10.50,0.00
+4/30/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"4,837.85",0.00
+4/30/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"22,160.00",0.00
+4/30/2021,Resgate,Inter PJ,CDB,CDB Liquidez Diária,340.00,0.00
+4/30/2021,Resgate,MyCap,Crypto,Hashdex,"3,084.95",0.00
+5/31/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"4,973.76"
+5/31/2021,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"6,600.00"
+5/31/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"4,117.86",0.00
+5/31/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"3,600.00",0.00
+6/30/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"16,899.40"
+6/30/2021,Aplicação,XP,CDB,XP CDB,0.00,"37,000.00"
+6/30/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"3,612.17",0.00
+6/30/2021,Resgate,Inter,CDB,CDB Liquidez Diária,780.00,0.00
+7/31/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"3,017.97"
+7/31/2021,Aplicação,XP,CDB,XP CDB,0.00,"10,000.00"
+7/31/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"2,816.87",0.00
+7/31/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"16,240.00",0.00
+7/31/2021,Resgate,XP,CDB,XP CDB,"37,140.80",0.00
+8/31/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,664.00
+8/31/2021,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"36,000.00"
+8/31/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,40.78
+8/31/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,591.75
+8/31/2021,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,12.61
+8/31/2021,Rendimentos,XP,CDB,XP CDB,0.00,223.19
+8/31/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"14,320.42",0.00
+8/31/2021,Resgate,Inter,CDB,CDB Liquidez Diária,540.00,0.00
+9/30/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"10,668.78"
+9/30/2021,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,"6,300.00"
+9/30/2021,Aplicação,XP,CDB,XP CDB,0.00,"10,310.81"
+9/30/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,8.88
+9/30/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,287.18
+9/30/2021,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,3.33
+9/30/2021,Rendimentos,XP,CDB,XP CDB,0.00,48.61
+9/30/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"9,780.48",0.00
+9/30/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"26,400.00",0.00
+9/30/2021,Resgate,XP,CDB,XP CDB,"10,131.00",0.00
+10/31/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"5,944.21"
+10/31/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,9.38
+10/31/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,293.20
+10/31/2021,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,4.17
+10/31/2021,Rendimentos,XP,CDB,XP CDB,0.00,51.03
+10/31/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"8,186.47",0.00
+10/31/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"4,300.00",0.00
+11/30/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"9,058.26"
+11/30/2021,Aplicação,Inter,CDB,CDB Liquidez Diária,0.00,900.00
+11/30/2021,Aplicação,Vitreo,CDB,Vitreo CDB 24/11/2022,0.00,"10,000.00"
+11/30/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,4.45
+11/30/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,36.03
+11/30/2021,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,4.59
+11/30/2021,Rendimentos,Vitreo,CDB,Vitreo CDB 24/11/2022,0.00,13.69
+11/30/2021,Rendimentos,XP,CDB,XP CDB,0.00,6.24
+11/30/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"8,595.15",0.00
+11/30/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"2,720.00",0.00
+11/30/2021,Resgate,XP,CDB,XP CDB,"10,368.08",0.00
+12/31/2021,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"15,869.64"
+12/31/2021,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,6.38
+12/31/2021,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,211.26
+12/31/2021,Rendimentos,Inter PJ,CDB,CDB Liquidez Diária,0.00,5.74
+12/31/2021,Rendimentos,Vitreo,CDB,Vitreo CDB 24/11/2022,0.00,81.31
+12/31/2021,Resgate,BB,REF DI,BB Ref DI Plus Est,"17,188.15",0.00
+12/31/2021,Resgate,Inter,CDB,CDB Liquidez Diária,"15,700.00",0.00
+1/27/2022,Aplicação,BB,REF DI,BB Ref DI Plus Est,0.00,"41,710.52"
+1/27/2022,Rendimentos,BB,REF DI,BB Ref DI Plus Est,0.00,13.44
+1/27/2022,Rendimentos,Inter,CDB,CDB Liquidez Diária,0.00,150.61
+1/27/2022,Resgate,BB,REF DI,BB Ref DI Plus Est,"39,779.98",0.00
