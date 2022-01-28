@@ -352,6 +352,7 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/12/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;17188,15;0
 31/12/2021;Resgate;Inter;CDB;CDB Liquidez Diária;15700;0
 27/01/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;41710,52
+27/01/2022;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;200000
 27/01/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;13,44
 27/01/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;150,61
 27/01/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;39779,98;0
