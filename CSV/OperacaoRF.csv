@@ -356,4 +356,6 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/01/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;174,85
 31/01/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;6,08
 31/01/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;94,82
-31/01/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;39954,98;0
+31/01/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;41356,49;0
+01/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,04
+01/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;26,11
