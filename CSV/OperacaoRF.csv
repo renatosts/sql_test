@@ -361,3 +361,4 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 11/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,66
 11/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;99,12
 11/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;8865,76;0
+11/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
