@@ -461,7 +461,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 04/01/2022;Stake;Stock;ALB;0,27;0,39;0,12;EUA
 13/01/2022;Stake;Stock;QSR;0,9;1,06;0,16;EUA
 20/12/2021;Stake;REIT;EIS;0,48;0,69;0,21;EUA
-30/12/2022;Stake;REIT;DEM;1;1,43;0,43;EUA
+30/12/2021;Stake;REIT;DEM;1;1,43;0,43;EUA
 04/01/2022;Stake;REIT;SPG;1,15;1,65;0,5;EUA
 05/01/2022;Stake;REIT;DEM;0,03;0,05;0,02;EUA
 07/01/2022;Stake;REIT;IRM;0,87;1,24;0,37;EUA
