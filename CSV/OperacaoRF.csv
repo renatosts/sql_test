@@ -303,6 +303,7 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 30/06/2021;Aplicação;XP;CDB;XP CDB;0;37000
 30/06/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;3612,17;0
 30/06/2021;Resgate;Inter;CDB;CDB Liquidez Diária;780;0
+13/07/2021;Aplicação;XP;CDB;XP Investback;0;52,12
 31/07/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;3017,97
 31/07/2021;Aplicação;XP;CDB;XP CDB;0;10000
 31/07/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;2816,87;0
@@ -314,8 +315,10 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/08/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;591,75
 31/08/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;12,61
 31/08/2021;Rendimentos;XP;CDB;XP CDB;0;223,19
+31/08/2021;Rendimentos;XP;CDB;XP Investback;0;0,35
 31/08/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;14320,42;0
 31/08/2021;Resgate;Inter;CDB;CDB Liquidez Diária;540;0
+13/09/2021;Aplicação;XP;CDB;XP Investback;0;124,19
 30/09/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10668,78
 30/09/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;6300
 30/09/2021;Aplicação;XP;CDB;XP CDB;0;10310,81
@@ -323,9 +326,12 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 30/09/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;287,18
 30/09/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;3,33
 30/09/2021;Rendimentos;XP;CDB;XP CDB;0;48,61
+30/09/2021;Rendimentos;XP;CDB;XP Investback;0;0,6
 30/09/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;9780,48;0
 30/09/2021;Resgate;Inter;CDB;CDB Liquidez Diária;26400;0
 30/09/2021;Resgate;XP;CDB;XP CDB;10131;0
+13/10/2021;Aplicação;XP;CDB;XP Investback;0;58,57
+29/10/2021;Rendimentos;XP;CDB;XP Investback;0;1,12
 31/10/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5944,21
 31/10/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9,38
 31/10/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;293,2
@@ -333,6 +339,7 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/10/2021;Rendimentos;XP;CDB;XP CDB;0;51,03
 31/10/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;8186,47;0
 31/10/2021;Resgate;Inter;CDB;CDB Liquidez Diária;4300;0
+11/11/2021;Aplicação;XP;CDB;XP Investback;0;66,37
 30/11/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9058,26
 30/11/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;900
 30/11/2021;Aplicação;Vitreo;CDB;Vitreo CDB 24/11/2022;0;10000
@@ -341,9 +348,12 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 30/11/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;4,59
 30/11/2021;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;13,69
 30/11/2021;Rendimentos;XP;CDB;XP CDB;0;6,24
+30/11/2021;Rendimentos;XP;CDB;XP Investback;0;1,13
 30/11/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;8595,15;0
 30/11/2021;Resgate;Inter;CDB;CDB Liquidez Diária;2720;0
 30/11/2021;Resgate;XP;CDB;XP CDB;10368,08;0
+14/12/2021;Aplicação;XP;CDB;XP Investback;0;74,67
+29/12/2021;Rendimentos;XP;CDB;XP Investback;0;1,39
 31/12/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;15869,64
 31/12/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;6,38
 31/12/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;211,26
@@ -351,14 +361,18 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/12/2021;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;81,31
 31/12/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;17188,15;0
 31/12/2021;Resgate;Inter;CDB;CDB Liquidez Diária;15700;0
+11/01/2022;Aplicação;XP;CDB;XP Investback;0;91,94
 31/01/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;41710,52
 31/01/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;14,18
 31/01/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;174,85
 31/01/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;6,08
 31/01/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;94,82
+31/01/2022;Rendimentos;XP;CDB;XP Investback;0;3,51
 31/01/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;41356,49;0
-13/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11959,15
-13/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;2,22
-13/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;108,59
-13/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;9055,76;0
-13/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
+14/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11959,15
+14/02/2022;Aplicação;XP;CDB;XP Investback;0;79,52
+14/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;2,22
+14/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;108,59
+14/02/2022;Rendimentos;XP;CDB;XP Investback;0;2,11
+14/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;9055,76;0
+14/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
