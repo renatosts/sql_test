@@ -485,3 +485,5 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 14/02/2022;XP;FII;RBRR11;66;66;0;BRL
 14/02/2022;XP;FII;RECR11;11,55;11,55;0;BRL
 14/02/2022;XP;FII;XPLG11;31,36;31,36;0;BRL
+15/02/2022;Stake;Stock;AAPL;0,31;0,44;0,13;EUA
+15/02/2022;XP;FII;VRTA11;99,2;99,2;0;BRL
