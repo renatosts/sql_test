@@ -1,36 +1,29 @@
-inv_corret;inv_nome;inv_moeda;inv_grupo_consolid;inv_objetivo;inv_cnpj;inv_tipo
-BB;Ação;Real;Ações/FII;Longo Prazo
-BB;FII;Real;Ações/FII;Longo Prazo
-BB;Crypto;Real;Crypto;Longo Prazo
-BB;Tesouro Direto;Real;Tesouro Direto;Proteção
-Inter;Ação;Real;Ações/FII;Longo Prazo
-Inter;FII;Real;Ações/FII;Longo Prazo
-Inter;Crypto;Real;Crypto;Longo Prazo
-Inter;Tesouro Direto;Real;Tesouro Direto;Proteção
-MyCap;Ação;Real;Ações/FII;Longo Prazo
-MyCap;FII;Real;Ações/FII;Longo Prazo
-MyCap;Crypto;Real;Crypto;Longo Prazo
-Orama;Orama Trigono 60 Flagship;Real;Fundo de Ações;Longo Prazo;35.471.498/0001-55;FIC FIA
-Orama;Orama Trigono Flagship SmallCaps;Real;Orama Trigono Flagship SmallCaps;Longo Prazo;29.177.013/0001-12;FIC FIA
-Stake;REIT;Dolar;Ações/FII;Longo Prazo
-Stake;Stock;Dolar;Ações/FII;Longo Prazo
-Vitreo;Vitreo Agro;Real;Vitreo Agro;Longo Prazo;42.190.534/0001-78;FIM
-Vitreo;Vitreo Coin NFT;Real;Vitreo Coin NFT;Longo Prazo;43.508.446/0001-34;FIM
-Vitreo;Vitreo Dolar;Real;Vitreo Dolar;Longo Prazo;33.952.939/0001-05;FI Cambial
-Vitreo;Vitreo Exponencial Light;Real;Vitreo Oportunidades de Uma Vida;Longo Prazo;34.218.752/0001-45;FIC FIM
-Vitreo;Vitreo Oportunidades de Uma Vida;Real;Vitreo Oportunidades de Uma Vida;Longo Prazo;34.218.763/0001-25;FIA
-Vitreo;Vitreo Ouro;Real;Vitreo Ouro;Longo Prazo;33.925.149/0001-30;FIC FIM
-Vitreo;Vitreo Tech Asia;Real;Vitreo Tech Asia;Longo Prazo;38.440.156/0001-66;FIA BDR
-Vitreo;Vitreo Tech Select;Real;Vitreo Tech Select;Longo Prazo;36.017.669/0001-33;FIA BDR
-Vitreo;Vitreo Uranio;Real;Vitreo Uranio;Longo Prazo;40.503.169/0001-89;FIM
-Vitreo;Vitreo PGBL FoF SuperPrevidência 2;Real;Vitreo PGBL FoF SuperPrevidência 2;Previdência;33.269.171/0001-70;Previd
-XP;Ação;Real;Ações/FII;Longo Prazo
-XP;FII;Real;Ações/FII;Longo Prazo
-XP;Crypto;Real;Crypto;Longo Prazo
-XP;Tesouro Direto;Real;Tesouro Direto;Proteção
-XP;XP Alaska Black;Real;XP Alaska Black;Longo Prazo;26.673.556/0001-32;FIC FIA
-XP;XP Equitas Selection;Real;XP Equitas Selection;Longo Prazo;12.004.203/0001-35;FIC FIA
-XP;XP Indie;Real;XP Indie;Longo Prazo;17.335.646/0001-22;FIC FIA
-XP;XP Moat Capital Equity Hedge;Real;XP Moat Capital Equity Hedge;Longo Prazo;24.140.256/0001-62;FIC FIM
-XP;XP Trend Ouro;Real;XP Trend Ouro;Longo Prazo;22.963.439/0001-52;FIM
-XP;XP Trend Ouro Dolar;Real;XP Trend Ouro Dolar;Longo Prazo;35.609.786/0001-23;FI Cambial
+inv_nome;inv_estrategia;inv_book;inv_cnpj;inv_tipo
+Ação;Renda Variável;Ações/Stock
+FII;Renda Variável;FII/REIT
+Crypto;Renda Variável;Crypto
+Stock;Renda Variável;Ações/Stock
+REIT;Renda Variável;FII/REIT
+Tesouro Direto;Renda Fixa;Tesouro Direto
+Orama Trigono 60 Flagship;Renda Variável;Ações/Stock;35.471.498/0001-55;FIC FIA
+Orama Trigono Flagship SmallCaps;Renda Variável;Ações/Stock;29.177.013/0001-12;FIC FIA
+Vitreo Agro;Renda Variável;Ações/Stock;42.190.534/0001-78;FIM
+Vitreo Coin NFT;Renda Variável;Ações/Stock;43.508.446/0001-34;FIM
+Vitreo Dolar;Renda Variável;Cambial;33.952.939/0001-05;FI Cambial
+Vitreo Exponencial Light;Renda Variável;Ações/Stock;34.218.752/0001-45;FIC FIM
+Vitreo Oportunidades de Uma Vida;Renda Variável;Ações/Stock;34.218.763/0001-25;FIA
+Vitreo Ouro;Renda Variável;Longo Prazo;33.925.149/0001-30;FIC FIM
+Vitreo Tech Asia;Renda Variável;Ações/Stock;38.440.156/0001-66;FIA BDR
+Vitreo Tech Select;Renda Variável;Ações/Stock;36.017.669/0001-33;FIA BDR
+Vitreo Uranio;Renda Variável;Longo Prazo;40.503.169/0001-89;FIM
+Vitreo PGBL FoF SuperPrevidência 2;Previdência;Previdência;33.269.171/0001-70;Previd
+XP Alaska Black;Renda Variável;Ações/Stock;26.673.556/0001-32;FIC FIA
+XP Equitas Selection;Renda Variável;Ações/Stock;12.004.203/0001-35;FIC FIA
+XP Indie;Renda Variável;Ações/Stock;17.335.646/0001-22;FIC FIA
+XP Moat Capital Equity Hedge;Renda Variável;Longo Prazo;24.140.256/0001-62;FIC FIM
+XP Trend Ouro;Renda Variável;Cambial;22.963.439/0001-52;FIM
+XP Trend Ouro Dolar;Renda Variável;Cambial;35.609.786/0001-23;FI Cambial
+CDB Liquidez Diária;Renda Fixa;Reserva Emergência
+XP Investback;Renda Fixa;CDB
+BB Ref DI Plus Est;Renda Fixa;Reserva Emergência
+Vitreo CDB 24/11/2022;Renda Fixa;CDB
