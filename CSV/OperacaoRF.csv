@@ -377,5 +377,5 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 17/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;9892,42;0
 17/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
 19/09/2017;Resgate;MyCap;Cash;MyCap Conta Invest;0;73364
-20/09/2017;Investimento;MyCap;Cash;MyCap Conta Invest;33800;0
-21/09/2017;Investimento;MyCap;Cash;MyCap Conta Invest;39411,37;0
+20/09/2017;Aplicação;MyCap;Cash;MyCap Conta Invest;33800;0
+21/09/2017;Aplicação;MyCap;Cash;MyCap Conta Invest;39411,37;0
