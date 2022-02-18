@@ -381,3 +381,5 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 18/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
 18/12/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;123303
 20/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;123485,37;0
+12/02/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;196293,8
+18/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;193000;0
