@@ -376,10 +376,10 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/01/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;94,82
 31/01/2022;Rendimentos;XP;CDB;XP Investback;0;3,51
 31/01/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;41356,49;0
-19/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11959,15
-19/02/2022;Aplicação;XP;CDB;XP Investback;0;79,52
+01/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11959,15
+01/02/2022;Aplicação;XP;CDB;XP Investback;0;79,52
+01/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;10217,39;0
+01/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
 19/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;4,53
 19/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;137
 19/02/2022;Rendimentos;XP;CDB;XP Investback;0;2,11
-19/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;10217,39;0
-19/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
