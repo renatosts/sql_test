@@ -302,16 +302,16 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 30/04/2021;Resgate;Inter;CDB;CDB Liquidez Diária;22160;0
 30/04/2021;Resgate;Inter PJ;CDB;CDB Liquidez Diária;340;0
 30/04/2021;Resgate;MyCap;Crypto;Hashdex;3084,95;0
-31/05/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4973,76
-31/05/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;6600
-31/05/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;4117,86;0
-31/05/2021;Resgate;Inter;CDB;CDB Liquidez Diária;3600;0
-30/06/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;16899,4
-30/06/2021;Aplicação;XP;CDB;XP CDB;0;37000
-30/06/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;3612,17;0
-30/06/2021;Resgate;Inter;CDB;CDB Liquidez Diária;780;0
-13/07/2021;Aplicação;XP;CDB;XP Investback;0;52,12
-31/07/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;3017,97
+01/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12355,15
+25/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;7,23
+01/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;11641,51;0
+25/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;199,97
+01/02/2022;Resgate;Inter;CDB;CDB Liquidez Diária;5370;0
+25/02/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;89,42
+25/02/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;5,89
+01/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
+01/02/2022;Aplicação;XP;CDB;XP Investback;0;79,52
+25/02/2022;Rendimentos;XP;CDB;XP Investback;0;4,55
 31/07/2021;Aplicação;XP;CDB;XP CDB;0;10000
 31/07/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;2816,87;0
 31/07/2021;Resgate;Inter;CDB;CDB Liquidez Diária;16240;0
