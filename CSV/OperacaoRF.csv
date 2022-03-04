@@ -60,9 +60,6 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/08/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000
 31/08/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;14,79
 31/08/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;9559,67;0
-19/09/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;73364
-20/09/2017;Saídas;MyCap;Cash;MyCap Conta Invest;33800;0
-21/09/2017;Saídas;MyCap;Cash;MyCap Conta Invest;39411,37;0
 30/09/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000
 30/09/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;22,1
 30/09/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;11540,8;0
@@ -122,8 +119,6 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 30/11/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11900
 30/11/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;31,65
 30/11/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;9597,51;0
-18/12/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;123303
-20/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;123485,37;0
 31/12/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000
 31/12/2018;Aplicação;BB PJ;REF DI;Coaching BB Invest;0;2400
 31/12/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;20,83
@@ -277,8 +272,6 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/01/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,55
 31/01/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;9772,74;0
 31/01/2021;Resgate;Inter;CDB;CDB Liquidez Diária;600;0
-12/02/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;196293,8
-18/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;193000;0
 28/02/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;7948,25
 28/02/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;127000
 28/02/2021;Aplicação;MyCap;Crypto;Hashdex;0;3000
@@ -386,3 +379,105 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 25/02/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;89,42
 25/02/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;89,42
 25/02/2022;Rendimentos;XP;CDB;XP Investback;0;4,55
+01/04/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;107,27
+01/07/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;66,64
+01/08/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;161,82
+01/09/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;76,74
+01/11/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;107,24
+01/12/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;41,93
+01/02/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;189,69
+01/04/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;533,45
+01/09/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;2,88
+01/11/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;232,05
+01/02/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;2393,75
+01/05/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;115,86
+01/06/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;19240,08
+01/08/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;59,5
+01/11/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;285,85
+01/01/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;547,38
+01/02/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;5050,06
+01/06/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;27,87
+01/08/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;10
+01/09/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;63,95
+01/11/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;19,12
+01/01/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;195,16
+01/03/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;45,46
+01/04/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;5,89
+01/05/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;69,28
+01/08/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;313,69
+01/10/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;251,37
+01/11/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;25
+01/01/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;4515,64
+01/04/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;7159,33
+01/06/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;376,39
+01/08/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;519,9
+01/09/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;1030,62
+01/11/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;119,71
+01/01/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;53,16
+01/02/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;90,08
+31/05/2016;Saídas;MyCap;Cash;MyCap Conta Invest;93,99;0
+30/06/2016;Saídas;MyCap;Cash;MyCap Conta Invest;13,87;0
+31/10/2016;Saídas;MyCap;Cash;MyCap Conta Invest;233,7;0
+31/01/2017;Saídas;MyCap;Cash;MyCap Conta Invest;172,11;0
+31/03/2017;Saídas;MyCap;Cash;MyCap Conta Invest;240,2;0
+31/05/2017;Saídas;MyCap;Cash;MyCap Conta Invest;380,68;0
+31/07/2017;Saídas;MyCap;Cash;MyCap Conta Invest;63,18;0
+31/08/2017;Saídas;MyCap;Cash;MyCap Conta Invest;58,99;0
+31/10/2017;Saídas;MyCap;Cash;MyCap Conta Invest;7;0
+31/12/2017;Saídas;MyCap;Cash;MyCap Conta Invest;125,24;0
+31/01/2018;Saídas;MyCap;Cash;MyCap Conta Invest;130,05;0
+31/03/2018;Saídas;MyCap;Cash;MyCap Conta Invest;1890,29;0
+30/04/2018;Saídas;MyCap;Cash;MyCap Conta Invest;125,13;0
+31/07/2018;Saídas;MyCap;Cash;MyCap Conta Invest;19511,2;0
+30/09/2018;Saídas;MyCap;Cash;MyCap Conta Invest;39,97;0
+31/10/2018;Saídas;MyCap;Cash;MyCap Conta Invest;0,39;0
+31/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;531,67;0
+31/03/2019;Saídas;MyCap;Cash;MyCap Conta Invest;5293,58;0
+30/04/2019;Saídas;MyCap;Cash;MyCap Conta Invest;98,22;0
+31/05/2019;Saídas;MyCap;Cash;MyCap Conta Invest;196,06;0
+31/07/2019;Saídas;MyCap;Cash;MyCap Conta Invest;15,62;0
+31/10/2019;Saídas;MyCap;Cash;MyCap Conta Invest;86,79;0
+31/12/2019;Saídas;MyCap;Cash;MyCap Conta Invest;13,86;0
+29/02/2020;Saídas;MyCap;Cash;MyCap Conta Invest;216,68;0
+30/06/2020;Saídas;MyCap;Cash;MyCap Conta Invest;73,42;0
+31/07/2020;Saídas;MyCap;Cash;MyCap Conta Invest;9,85;0
+30/09/2020;Saídas;MyCap;Cash;MyCap Conta Invest;335,11;0
+31/12/2020;Saídas;MyCap;Cash;MyCap Conta Invest;196,86;0
+28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;3455,43;0
+31/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1000,2;0
+31/05/2021;Saídas;MyCap;Cash;MyCap Conta Invest;6947,04;0
+31/07/2021;Saídas;MyCap;Cash;MyCap Conta Invest;579,73;0
+31/10/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1699,96;0
+31/12/2021;Saídas;MyCap;Cash;MyCap Conta Invest;104,6;0
+01/07/2019;Entradas;XP;Cash;XP Conta Invest;0;16,63
+01/08/2019;Entradas;XP;Cash;XP Conta Invest;0;147,59
+01/11/2019;Entradas;XP;Cash;XP Conta Invest;0;5,64
+01/01/2020;Entradas;XP;Cash;XP Conta Invest;0;358,01
+01/04/2020;Entradas;XP;Cash;XP Conta Invest;0;5,16
+01/05/2020;Entradas;XP;Cash;XP Conta Invest;0;52,91
+01/06/2020;Entradas;XP;Cash;XP Conta Invest;0;149,49
+01/08/2020;Entradas;XP;Cash;XP Conta Invest;0;195,25
+01/09/2020;Entradas;XP;Cash;XP Conta Invest;0;214,23
+01/10/2020;Entradas;XP;Cash;XP Conta Invest;0;225,06
+01/12/2020;Entradas;XP;Cash;XP Conta Invest;0;378,87
+01/02/2021;Entradas;XP;Cash;XP Conta Invest;0;411,4
+01/04/2021;Entradas;XP;Cash;XP Conta Invest;0;117,48
+01/06/2021;Entradas;XP;Cash;XP Conta Invest;0;236,06
+01/07/2021;Entradas;XP;Cash;XP Conta Invest;0;20690,43
+01/09/2021;Entradas;XP;Cash;XP Conta Invest;0;293,3
+01/12/2021;Entradas;XP;Cash;XP Conta Invest;0;559,36
+30/09/2019;Saídas;XP;Cash;XP Conta Invest;110,22;0
+31/10/2019;Saídas;XP;Cash;XP Conta Invest;5,5;0
+31/12/2019;Saídas;XP;Cash;XP Conta Invest;23,6;0
+29/02/2020;Saídas;XP;Cash;XP Conta Invest;277,19;0
+31/03/2020;Saídas;XP;Cash;XP Conta Invest;77,42;0
+31/07/2020;Saídas;XP;Cash;XP Conta Invest;220,86;0
+30/11/2020;Saídas;XP;Cash;XP Conta Invest;271,65;0
+31/01/2021;Saídas;XP;Cash;XP Conta Invest;241,8;0
+31/03/2021;Saídas;XP;Cash;XP Conta Invest;697,47;0
+31/05/2021;Saídas;XP;Cash;XP Conta Invest;4,31;0
+31/08/2021;Saídas;XP;Cash;XP Conta Invest;21207,12;0
+31/10/2021;Saídas;XP;Cash;XP Conta Invest;338,65;0
+30/11/2021;Saídas;XP;Cash;XP Conta Invest;11,88;0
+31/01/2022;Saídas;XP;Cash;XP Conta Invest;370,45;0
+28/02/2022;Saídas;XP;Cash;XP Conta Invest;68,8;0
