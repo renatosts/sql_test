@@ -386,6 +386,7 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 30/06/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13287,23
 30/06/2021;Resgate;Inter;CDB;CDB Liquidez Diária;780;0
 01/07/2021;Entradas;XP;Cash;XP Conta Invest;0;20690,43
+13/07/2021;Aplicação;XP;CDB;XP Investback;0;52,12
 31/07/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;201,1
 31/07/2021;Resgate;Inter;CDB;CDB Liquidez Diária;16240;0
 31/07/2021;Saídas;MyCap;Cash;MyCap Conta Invest;579,73;0
