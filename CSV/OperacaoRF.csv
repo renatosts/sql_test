@@ -452,7 +452,6 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/01/2022;Rendimentos;XP;CDB;XP Investback;0;3,51
 01/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12355,15
 01/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;11641,51;0
-01/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;10267,39;0
 01/02/2022;Resgate;Inter;CDB;CDB Liquidez Diária;5370;0
 01/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
 01/02/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;90,08
