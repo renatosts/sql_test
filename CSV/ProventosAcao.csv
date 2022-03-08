@@ -496,3 +496,5 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 25/02/2022;XP;FII;XPML11;30,6;30,6;0;BRL
 25/02/2022;MyCap;FII;SNFF11;12,35;12,35;0;BRL
 07/03/2022;Stake;Stock;PFE;1,68;2,4;0,72;EUA
+08/03/2022;XP;FII;ABCP11;22,5;22,5;0;BRL
+08/03/2022;XP;FII;PVBI11;33,04;33,04;0;BRL

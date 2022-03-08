@@ -468,7 +468,9 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 28/02/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;89,42
 28/02/2022;Rendimentos;XP;CDB;XP Investback;0;4,55
 28/02/2022;Saídas;XP;Cash;XP Conta Invest;68,8;0
-01/03/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11513,2
+01/03/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12377,44
+01/03/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;11500
+01/03/2022;Entradas;XP;Cash;XP Conta Invest;0;55,54
 01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;1360;0
-07/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,77
-07/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;29,43
+08/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;2,63
+08/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;29,43
