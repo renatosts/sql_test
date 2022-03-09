@@ -150,6 +150,8 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 30/11/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11900
 30/11/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;31,65
 30/11/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;9597,51;0
+18/12/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;123303
+20/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;123303;0
 31/12/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000
 31/12/2018;Aplicação;BB PJ;REF DI;Coaching BB Invest;0;2400
 31/12/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;20,83
@@ -349,6 +351,8 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 31/01/2021;Resgate;Inter;CDB;CDB Liquidez Diária;600;0
 31/01/2021;Saídas;XP;Cash;XP Conta Invest;241,8;0
 01/02/2021;Entradas;XP;Cash;XP Conta Invest;0;411,4
+12/02/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;196293,8
+18/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;73000;0
 28/02/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;7948,25
 28/02/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;127000
 28/02/2021;Aplicação;MyCap;Crypto;Hashdex;0;3000
@@ -358,6 +362,10 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 28/02/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;7101,64;0
 28/02/2021;Resgate;Inter;CDB;CDB Liquidez Diária;6400;0
 28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;3455,43;0
+28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;120991,18;0
+09/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;378;0
+11/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;827;0
+19/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1097,62;0
 31/03/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4033,91
 31/03/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,17
 31/03/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;50,43
@@ -468,17 +476,10 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 28/02/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;89,42
 28/02/2022;Rendimentos;XP;CDB;XP Investback;0;4,55
 28/02/2022;Saídas;XP;Cash;XP Conta Invest;68,8;0
-01/03/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12377,44
-01/03/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;11500
+01/03/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12704,52
+01/03/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;14500
 01/03/2022;Entradas;XP;Cash;XP Conta Invest;0;55,54
 01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;1360;0
-08/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;2,63
-08/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;29,43
-18/12/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;123303
-20/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;123303;0
-12/02/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;196293,8
-18/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;73000;0
-28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;120991,18;0
-09/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;378;0
-11/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;827;0
-19/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1097,62;0
+09/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;3,84
+09/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;45,24
+09/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;15504,45;0
