@@ -480,6 +480,6 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 01/03/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;14500
 01/03/2022;Entradas;XP;Cash;XP Conta Invest;0;55,54
 01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;1360;0
+01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;15504,45;0
 09/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;3,84
 09/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;45,24
-09/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;15504,45;0
