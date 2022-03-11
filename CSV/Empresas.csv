@@ -1,4 +1,4 @@
-acao_tipo;acao_ticker;acao_cnpj;acao_nome
+tipo;ticker;cnpj;nome
 Ação;ABCB4;28.195.667/0001-06;ABC BRASIL
 Ação;ABEV3;07.526.557/0001-00;AMBEV S/A
 Ação;ALUP11;08.364.948/0001-38;ALUPAR
