@@ -67,7 +67,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 17/02/2021;MyCap;Ação;CIEL3;4,96;0;0;BRL;Dividendos
 17/02/2021;MyCap;Ação;CIEL3;42,81;0;0;BRL;JCP
 18/02/2021;MyCap;Ação;ABCB4;57,49;0;0;BRL;JCP
-03/03/2021;MyCap;Ação;BBAS3;0,11;0;0;BRL;Rendimentos
+03/03/2021;MyCap;Ação;BBAS3;0,11;0;0;BRL;Dividendos
 03/03/2021;MyCap;Ação;BBAS3;36,94;0;0;BRL;JCP
 08/03/2021;MyCap;Ação;RDOR3;8,92;0;0;BRL;JCP
 10/03/2021;MyCap;Ação;WEGE3;8,79;0;0;BRL;JCP
@@ -76,7 +76,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 26/03/2021;MyCap;Ação;GOAU4;38,25;0;0;BRL;JCP
 31/03/2021;MyCap;Ação;BBAS3;12,39;0;0;BRL;JCP
 01/04/2021;MyCap;Ação;ITSA4;20;0;0;BRL;Dividendos
-29/04/2021;MyCap;Ação;PETR4;1,25;0;0;BRL;Rendimentos
+29/04/2021;MyCap;Ação;PETR4;1,25;0;0;BRL;Dividendos
 29/04/2021;MyCap;Ação;PETR4;236,23;0;0;BRL;JCP
 05/05/2021;MyCap;Ação;MGLU3;71,54;0;0;BRL;JCP
 11/05/2021;MyCap;Ação;GOLL4;8,34;0;0;BRL;.
@@ -97,7 +97,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 25/08/2021;MyCap;Ação;PETR4;482,97;0;0;BRL;Dividendos
 26/08/2021;MyCap;Ação;ITSA4;30,85;0;0;BRL;JCP
 30/08/2021;MyCap;Ação;ALUP11;60;0;0;BRL;Dividendos
-31/08/2021;MyCap;Ação;BBAS3;0,21;0;0;BRL;Rendimentos
+31/08/2021;MyCap;Ação;BBAS3;0,21;0;0;BRL;Dividendos
 31/08/2021;MyCap;Ação;BBAS3;29,37;0;0;BRL;JCP
 30/09/2021;MyCap;Ação;VALE3;1639,44;0;0;BRL;Dividendos
 30/09/2021;MyCap;Ação;BBAS3;15,7;0;0;BRL;JCP
@@ -359,7 +359,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 15/06/2021;XP;FII;MALL11;27,9;0;0;BRL;Dividendos
 15/06/2021;XP;FII;RBRP11;20,16;0;0;BRL;Dividendos
 17/06/2021;XP;FII;RBRR11;48;0;0;BRL;Dividendos
-25/06/2021;MyCap;FII;SNFF11;2,28;0;0;BRL;Rendimentos
+25/06/2021;MyCap;FII;SNFF11;2,28;0;0;BRL;Dividendos
 15/06/2021;XP;FII;VRTA11;58,24;0;0;BRL;Dividendos
 15/06/2021;XP;FII;XPLG11;29,89;0;0;BRL;Dividendos
 25/06/2021;XP;FII;XPML11;20,4;0;0;BRL;Dividendos
@@ -374,7 +374,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 15/07/2021;XP;FII;MALL11;31;0;0;BRL;Dividendos
 15/07/2021;XP;FII;RBRP11;22,05;0;0;BRL;Dividendos
 19/07/2021;XP;FII;RBRR11;57,54;0;0;BRL;Dividendos
-23/07/2021;MyCap;FII;SNFF11;7,79;0;0;BRL;Rendimentos
+23/07/2021;MyCap;FII;SNFF11;7,79;0;0;BRL;Dividendos
 15/07/2021;XP;FII;VRTA11;57,12;0;0;BRL;Dividendos
 14/07/2021;XP;FII;XPLG11;29,89;0;0;BRL;Dividendos
 23/07/2021;XP;FII;XPML11;26,52;0;0;BRL;Dividendos
@@ -389,7 +389,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 06/08/2021;XP;FII;PVBI11;34,81;0;0;BRL;Dividendos
 13/08/2021;XP;FII;RBRP11;26,46;0;0;BRL;Dividendos
 13/08/2021;XP;FII;RBRR11;48;0;0;BRL;Dividendos
-25/08/2021;MyCap;FII;SNFF11;10,45;0;0;BRL;Rendimentos
+25/08/2021;MyCap;FII;SNFF11;10,45;0;0;BRL;Dividendos
 13/08/2021;XP;FII;VRTA11;59,92;0;0;BRL;Dividendos
 13/08/2021;XP;FII;XPLG11;30,38;0;0;BRL;Dividendos
 25/08/2021;XP;FII;XPML11;30,6;0;0;BRL;Dividendos
@@ -404,7 +404,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 08/09/2021;XP;FII;PVBI11;33,04;0;0;BRL;Dividendos
 15/09/2021;XP;FII;RBRP11;27,09;0;0;BRL;Dividendos
 17/09/2021;XP;FII;RBRR11;48;0;0;BRL;Dividendos
-24/09/2021;MyCap;FII;SNFF11;13,3;0;0;BRL;Rendimentos
+24/09/2021;MyCap;FII;SNFF11;13,3;0;0;BRL;Dividendos
 15/09/2021;XP;FII;VRTA11;57,12;0;0;BRL;Dividendos
 15/09/2021;XP;FII;XPLG11;30,38;0;0;BRL;Dividendos
 24/09/2021;XP;FII;XPML11;29,07;0;0;BRL;Dividendos
@@ -419,7 +419,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 07/10/2021;XP;FII;PVBI11;33,04;0;0;BRL;Dividendos
 15/10/2021;XP;FII;RBRP11;28,35;0;0;BRL;Dividendos
 19/10/2021;XP;FII;RBRR11;54;0;0;BRL;Dividendos
-25/10/2021;MyCap;FII;SNFF11;13,3;0;0;BRL;Rendimentos
+25/10/2021;MyCap;FII;SNFF11;13,3;0;0;BRL;Dividendos
 15/10/2021;XP;FII;VRTA11;61,6;0;0;BRL;Dividendos
 15/10/2021;XP;FII;XPLG11;30,38;0;0;BRL;Dividendos
 25/10/2021;XP;FII;XPML11;29,07;0;0;BRL;Dividendos
@@ -434,7 +434,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 08/11/2021;XP;FII;PVBI11;33,04;0;0;BRL;Dividendos
 16/11/2021;XP;FII;RBRP11;28,98;0;0;BRL;Dividendos
 18/11/2021;XP;FII;RBRR11;54;0;0;BRL;Dividendos
-25/11/2021;MyCap;FII;SNFF11;11,78;0;0;BRL;Rendimentos
+25/11/2021;MyCap;FII;SNFF11;11,78;0;0;BRL;Dividendos
 12/11/2021;XP;FII;VRTA11;76,8;0;0;BRL;Dividendos
 16/11/2021;XP;FII;XPLG11;31,36;0;0;BRL;Dividendos
 25/11/2021;XP;FII;XPML11;25,5;0;0;BRL;Dividendos
@@ -449,7 +449,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 07/12/2021;XP;FII;PVBI11;33,04;0;0;BRL;Dividendos
 14/12/2021;XP;FII;RBRP11;28,98;0;0;BRL;Dividendos
 16/12/2021;XP;FII;RBRR11;54;0;0;BRL;Dividendos
-23/12/2021;MyCap;FII;SNFF11;13,3;0;0;BRL;Rendimentos
+23/12/2021;MyCap;FII;SNFF11;13,3;0;0;BRL;Dividendos
 15/12/2021;XP;FII;VRTA11;80,45;0;0;BRL;Dividendos
 14/12/2021;XP;FII;XPLG11;31,36;0;0;BRL;Dividendos
 23/12/2021;XP;FII;XPML11;28,05;0;0;BRL;Dividendos
@@ -464,7 +464,7 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 07/01/2022;XP;FII;PVBI11;33,04;0;0;BRL;Dividendos
 14/01/2022;XP;FII;RBRP11;28,98;0;0;BRL;Dividendos
 18/01/2022;XP;FII;RBRR11;64,2;0;0;BRL;Dividendos
-25/01/2022;MyCap;FII;SNFF11;12,35;0;0;BRL;Rendimentos
+25/01/2022;MyCap;FII;SNFF11;12,35;0;0;BRL;Dividendos
 14/01/2022;XP;FII;VRTA11;95,4;0;0;BRL;Dividendos
 14/01/2022;XP;FII;XPLG11;31,36;0;0;BRL;Dividendos
 25/01/2022;XP;FII;XPML11;43,35;0;0;BRL;Dividendos
@@ -504,13 +504,13 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 25/02/2022;XP;FII;ALZR11;34,82;34,82;0;BRL;Dividendos
 25/02/2022;XP;FII;BTLG11;39,6;39,6;0;BRL;Dividendos
 25/02/2022;XP;FII;XPML11;30,6;30,6;0;BRL;Dividendos
-25/02/2022;MyCap;FII;SNFF11;12,35;12,35;0;BRL;Rendimentos
+25/02/2022;MyCap;FII;SNFF11;12,35;12,35;0;BRL;Dividendos
 07/03/2022;Stake;Stock;PFE;1,68;2,4;0,72;EUA;Dividendos
 08/03/2022;XP;FII;ABCP11;22,5;22,5;0;BRL;Dividendos
 08/03/2022;XP;FII;PVBI11;33,04;33,04;0;BRL;Dividendos
 11/03/2022;Stake;Stock;MSFT;0,43;0,62;0,19;EUA;Dividendos
 11/03/2022;MyCap;Ação;BBAS3;35,58;35,58;0;BRL;Dividendos
 11/03/2022;MyCap;Ação;BBAS3;38,61;38,61;0;BRL;JCP
-11/03/2022;MyCap;Ação;BBAS3;0,5;0,5;0;BRL;Rendimentos
+11/03/2022;MyCap;Ação;BBAS3;0,5;0,5;0;BRL;Dividendos
 11/03/2022;MyCap;Ação;ITSA4;100,2;100,2;0;BRL;Dividendos
 11/03/2022;Inter;Ação;ITSA4;11,9;11,9;0;BRL;Dividendos
