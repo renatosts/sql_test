@@ -523,3 +523,10 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 15/03/2022;XP;FII;RECR11;21,52;21,52;0;BRL;Dividendos
 15/03/2022;XP;FII;VRTA11;100;100;0;BRL;Dividendos
 15/03/2022;XP;FII;XPLG11;32,34;32,34;0;BRL;Dividendos
+16/03/2022;MyCap;Ação;VALE3;1115,77;1115,77;0;BRL;Dividendos
+16/03/2022;MyCap;Ação;WEGE3;102,6;102,6;0;BRL;Dividendos
+16/03/2022;MyCap;Ação;WEGE3;22,4;22,4;0;BRL;JCP
+16/03/2022;Stake;Stock;STAG;0,43;0,61;0,18;EUA;Dividendos
+16/03/2022;Stake;Stock;TSN;1,29;1,84;0,55;EUA;Dividendos
+16/03/2022;Stake;Stock;EPR;1,05;1,5;0,45;EUA;Dividendos
+16/03/2022;Stake;Stock;O;0,69;0,99;0,3;EUA;Dividendos
