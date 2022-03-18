@@ -478,11 +478,11 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 28/02/2022;Saídas;XP;Cash;XP Conta Invest;68,8;0
 01/03/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12704,52
 01/03/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;16100
+01/03/2022;Aplicação;XP;CDB;XP Investback;0;73,39
 01/03/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;1500,82
-01/03/2022;Entradas;XP;CDB;XP Investback;0;73,39
 01/03/2022;Entradas;XP;Cash;XP Conta Invest;0;520,46
-01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;12141,63;0
+01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;12353,6;0
 01/03/2022;Saídas;MyCap;Cash;MyCap Conta Invest;1600;0
 01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;11563,64;0
-17/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;7,37
-17/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;101,25
+18/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;7,6
+18/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;112,63
