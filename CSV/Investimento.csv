@@ -24,9 +24,10 @@ XP Moat Capital Equity Hedge;Ações/Stock;24.140.256/0001-62
 XP Trend Ouro;Ouro/Dolar;22.963.439/0001-52
 XP Trend Ouro Dolar;Ouro/Dolar;35.609.786/0001-23
 CDB Liquidez Diária;Reserva Emergência
-XP Investback;CDB
+XP Investback;CDB/LCA/LCI
 BB Ref DI Plus Est;Reserva Emergência
-Vitreo CDB 24/11/2022;CDB
+Inter LCA 16/03/2023;CDB/LCA/LCI
+Vitreo CDB 24/11/2022;CDB/LCA/LCI
 MyCap Conta Invest;Cash
 Vitreo Conta Invest;Cash
 XP Conta Invest;Cash
