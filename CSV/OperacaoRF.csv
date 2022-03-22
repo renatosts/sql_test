@@ -1,492 +1,492 @@
 rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
-01/01/2016;Saldo Inicial;BB;REF DI;BB Ref DI Plus Est;0;1677,31
-31/01/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;25000
-31/01/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;103,37
-31/01/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;16731,09;0
-29/02/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000
-29/02/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;89,02
-29/02/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;7158,62;0
-31/03/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;46500
-31/03/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;127,05
-31/03/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;9056,55;0
-01/04/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;107,27
-30/04/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9000
-30/04/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;406,01
-30/04/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;15006,63;0
-31/05/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5000
-31/05/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;309,65
-31/05/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;14127,77;0
-31/05/2016;Saídas;MyCap;Cash;MyCap Conta Invest;93,99;0
-30/06/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000
-30/06/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;327,35
-30/06/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;11158,08;0
-30/06/2016;Saídas;MyCap;Cash;MyCap Conta Invest;13,87;0
-01/07/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;66,64
-31/07/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000
-31/07/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;230,01
-31/07/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;23712,39;0
-01/08/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;161,82
-31/08/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000
-31/08/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;119,89
-31/08/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;12991,24;0
-01/09/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;76,74
-30/09/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000
-30/09/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;71,53
-30/09/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;12471,72;0
-31/10/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;7900
-31/10/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;30,11
-31/10/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;12477,21;0
-31/10/2016;Saídas;MyCap;Cash;MyCap Conta Invest;233,7;0
-01/11/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;107,24
-30/11/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4000
-30/11/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9,69
-30/11/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;3925,04;0
-01/12/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;41,93
-31/12/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;18900
-31/12/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;37,84
-31/12/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;11291,5;0
-31/01/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;25000
-31/01/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;192,04
-31/01/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;12638,46;0
-31/01/2017;Saídas;MyCap;Cash;MyCap Conta Invest;172,11;0
-01/02/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;189,69
-28/02/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000
-28/02/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;151,39
-28/02/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;12712,04;0
-31/03/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8500
-31/03/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;123,22
-31/03/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;14835,86;0
-31/03/2017;Saídas;MyCap;Cash;MyCap Conta Invest;240,2;0
-01/04/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;533,45
-30/04/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6500
-30/04/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;64,71
-30/04/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;8324,25;0
-31/05/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000
-31/05/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;39,98
-31/05/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;15791,72;0
-31/05/2017;Saídas;MyCap;Cash;MyCap Conta Invest;380,68;0
-30/06/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000
-30/06/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,63
-30/06/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;10012,63;0
-31/07/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000
-31/07/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;13,59
-31/07/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;10013,59;0
-31/07/2017;Saídas;MyCap;Cash;MyCap Conta Invest;63,18;0
-31/08/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000
-31/08/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;14,79
-31/08/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;9559,67;0
-31/08/2017;Saídas;MyCap;Cash;MyCap Conta Invest;58,99;0
-01/09/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;2,88
-30/09/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000
-30/09/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;22,1
-30/09/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;11540,8;0
-31/10/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11000
-31/10/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;25,51
-31/10/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;9180,1;0
-31/10/2017;Saídas;MyCap;Cash;MyCap Conta Invest;7;0
-01/11/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;232,05
-30/11/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5000
-30/11/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;10,64
-30/11/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;8792,47;0
-31/12/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;18000
-31/12/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;30,3
-31/12/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;17455,87;0
-31/12/2017;Saídas;MyCap;Cash;MyCap Conta Invest;125,24;0
-31/01/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11500
-31/01/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;10,7
-31/01/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;11249,44;0
-31/01/2018;Saídas;MyCap;Cash;MyCap Conta Invest;130,05;0
-01/02/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;2393,75
-28/02/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12000
-28/02/2018;Aplicação;BB PJ;REF DI;Coaching BB Invest;0;2300
-28/02/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,36
-28/02/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,67
-28/02/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;12252,51;0
-31/03/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000
-31/03/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;11,92
-31/03/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3
-31/03/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;5637,7;0
-31/03/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;850;0
-31/03/2018;Saídas;MyCap;Cash;MyCap Conta Invest;1890,29;0
-30/04/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000
-30/04/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,11
-30/04/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,16
-30/04/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;4566,43;0
-30/04/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;351,61;0
-30/04/2018;Saídas;MyCap;Cash;MyCap Conta Invest;125,13;0
-01/05/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;115,86
-31/05/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000
-31/05/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;18,15
-31/05/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,39
-31/05/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;8954,36;0
-31/05/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;849,06;0
-01/06/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;19240,08
-30/06/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11000
-30/06/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;17,59
-30/06/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,6
-30/06/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;12213,94;0
-30/06/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;167,01;0
-31/07/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;14000
-31/07/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;34,26
-31/07/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,26
-31/07/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;7792,61;0
-31/07/2018;Saídas;MyCap;Cash;MyCap Conta Invest;19511,2;0
-01/08/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;59,5
-31/08/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5600
-31/08/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;34,52
-31/08/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,33
-31/08/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;7475,03;0
-30/09/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000
-30/09/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;13,32
-30/09/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,04
-30/09/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;19172,76;0
-30/09/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;96,77;0
-30/09/2018;Saídas;MyCap;Cash;MyCap Conta Invest;39,97;0
-31/10/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11000
-31/10/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;19,51
-31/10/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;9755,02;0
-31/10/2018;Saídas;MyCap;Cash;MyCap Conta Invest;0,39;0
-01/11/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;285,85
-30/11/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11900
-30/11/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;31,65
-30/11/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;9597,51;0
-18/12/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;123303
-20/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;123303;0
-31/12/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000
-31/12/2018;Aplicação;BB PJ;REF DI;Coaching BB Invest;0;2400
-31/12/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;20,83
-31/12/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;1,23
-31/12/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;16420,48;0
-31/12/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;621,07;0
-31/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;531,67;0
-01/01/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;547,38
-31/01/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;20000
-31/01/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;34,66
-31/01/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;7,73
-31/01/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;14819,86;0
-31/01/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;384,94;0
-01/02/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;5050,06
-28/02/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000
-28/02/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;20,75
-28/02/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;1,85
-28/02/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;11551,74;0
-28/02/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;117,23;0
-31/03/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;14000
-31/03/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,09
-31/03/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,24
-31/03/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;14419,46;0
-31/03/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;50;0
-31/03/2019;Saídas;MyCap;Cash;MyCap Conta Invest;5293,58;0
-30/04/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13500
-30/04/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,91
-30/04/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;1,6
-30/04/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;10784,85;0
-30/04/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;1242,41;0
-30/04/2019;Saídas;MyCap;Cash;MyCap Conta Invest;98,22;0
-31/05/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000
-31/05/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;16,27
-31/05/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;9814,92;0
-31/05/2019;Saídas;MyCap;Cash;MyCap Conta Invest;196,06;0
-01/06/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;27,87
-30/06/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000
-30/06/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;15,88
-30/06/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;11032,09;0
-01/07/2019;Entradas;XP;Cash;XP Conta Invest;0;16,63
-31/07/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9000
-31/07/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9,09
-31/07/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;10922,29;0
-31/07/2019;Saídas;MyCap;Cash;MyCap Conta Invest;15,62;0
-01/08/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;10
-01/08/2019;Entradas;XP;Cash;XP Conta Invest;0;147,59
-31/08/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000
-31/08/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;7,1
-31/08/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;7657,39;0
-01/09/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;63,95
-30/09/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5500
-30/09/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;10800
-30/09/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,47
-30/09/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;2,92
-30/09/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;5858,18;0
-30/09/2019;Resgate;Inter;CDB;CDB Liquidez Diária;10802,92;0
-30/09/2019;Saídas;XP;Cash;XP Conta Invest;110,22;0
-31/10/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6500
-31/10/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;2500
-31/10/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;6,97
-31/10/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;1,3
-31/10/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;6506,97;0
-31/10/2019;Resgate;Inter;CDB;CDB Liquidez Diária;2501,3;0
-31/10/2019;Saídas;MyCap;Cash;MyCap Conta Invest;86,79;0
-31/10/2019;Saídas;XP;Cash;XP Conta Invest;5,5;0
-01/11/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;19,12
-01/11/2019;Entradas;XP;Cash;XP Conta Invest;0;5,64
-30/11/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12956,16
-30/11/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;9800
-30/11/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,09
-30/11/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;2,06
-30/11/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;12915,2;0
-30/11/2019;Resgate;Inter;CDB;CDB Liquidez Diária;9802,06;0
-31/12/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;34167,47
-31/12/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;2500
-31/12/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,32
-31/12/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;0,21
-31/12/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;26766,52;0
-31/12/2019;Resgate;Inter;CDB;CDB Liquidez Diária;2500,21;0
-31/12/2019;Saídas;MyCap;Cash;MyCap Conta Invest;13,86;0
-31/12/2019;Saídas;XP;Cash;XP Conta Invest;23,6;0
-01/01/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;195,16
-01/01/2020;Entradas;XP;Cash;XP Conta Invest;0;358,01
-31/01/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;16508,97
-31/01/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;1000
-31/01/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;1500
-31/01/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,91
-31/01/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,29
-31/01/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;23007,56;0
-31/01/2020;Resgate;Inter;CDB;CDB Liquidez Diária;870;0
-31/01/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900;0
-29/02/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6213,66
-29/02/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;490
-29/02/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;950
-29/02/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,45
-29/02/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;2,13
-29/02/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;6092,62;0
-29/02/2020;Resgate;Inter;CDB;CDB Liquidez Diária;150;0
-29/02/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;950,31;0
-29/02/2020;Saídas;MyCap;Cash;MyCap Conta Invest;216,68;0
-29/02/2020;Saídas;XP;Cash;XP Conta Invest;277,19;0
-01/03/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;45,46
-31/03/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8189,74
-31/03/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;4800
-31/03/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;900
-31/03/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,71
-31/03/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;3,29
-31/03/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;2,18
-31/03/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;8123,59;0
-31/03/2020;Resgate;Inter;CDB;CDB Liquidez Diária;5273,29;0
-31/03/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900,58;0
-31/03/2020;Saídas;XP;Cash;XP Conta Invest;77,42;0
-01/04/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;5,89
-01/04/2020;Entradas;XP;Cash;XP Conta Invest;0;5,16
-30/04/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6225,47
-30/04/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;900
-30/04/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;900
-30/04/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,64
-30/04/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,33
-30/04/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;6193,32;0
-30/04/2020;Resgate;Inter;CDB;CDB Liquidez Diária;570;0
-30/04/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900,35;0
-01/05/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;69,28
-01/05/2020;Entradas;XP;Cash;XP Conta Invest;0;52,91
-31/05/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6502,19
-31/05/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,28
-31/05/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;1,1
-31/05/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,49
-31/05/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;5235,45;0
-31/05/2020;Resgate;Inter;CDB;CDB Liquidez Diária;331,1;0
-01/06/2020;Entradas;XP;Cash;XP Conta Invest;0;149,49
-30/06/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4515,75
-30/06/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;2300
-30/06/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,78
-30/06/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,49
-30/06/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;6012,77;0
-30/06/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900,19;0
-30/06/2020;Saídas;MyCap;Cash;MyCap Conta Invest;73,42;0
-31/07/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;36903,78
-31/07/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;600
-31/07/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;1850
-31/07/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,63
-31/07/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;0,25
-31/07/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;5,19
-31/07/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;7608,29;0
-31/07/2020;Resgate;Inter;CDB;CDB Liquidez Diária;600,25;0
-31/07/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;850,52;0
-31/07/2020;Saídas;MyCap;Cash;MyCap Conta Invest;9,85;0
-31/07/2020;Saídas;XP;Cash;XP Conta Invest;220,86;0
-01/08/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;313,69
-01/08/2020;Entradas;XP;Cash;XP Conta Invest;0;195,25
-31/08/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6326,7
-31/08/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,21
-31/08/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;4,04
-31/08/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;35427,75;0
-31/08/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900;0
-01/09/2020;Entradas;XP;Cash;XP Conta Invest;0;214,23
-30/09/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4567,78
-30/09/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,07
-30/09/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;2,59
-30/09/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;4457,76;0
-30/09/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;550;0
-30/09/2020;Saídas;MyCap;Cash;MyCap Conta Invest;335,11;0
-01/10/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;251,37
-01/10/2020;Entradas;XP;Cash;XP Conta Invest;0;225,06
-31/10/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5454,3
-31/10/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;8700
-31/10/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;950
-31/10/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,25
-31/10/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;1,26
-31/10/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,65
-31/10/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;5677,37;0
-31/10/2020;Resgate;Inter;CDB;CDB Liquidez Diária;6010;0
-31/10/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;1266,54;0
-01/11/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;25
-30/11/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4847,23
-30/11/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;12400
-30/11/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,09
-30/11/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;9,53
-30/11/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,54
-30/11/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;5757,51;0
-30/11/2020;Resgate;Inter;CDB;CDB Liquidez Diária;1550;0
-30/11/2020;Saídas;XP;Cash;XP Conta Invest;271,65;0
-01/12/2020;Entradas;XP;Cash;XP Conta Invest;0;378,87
-31/12/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8735,94
-31/12/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,3
-31/12/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;6,99
-31/12/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,6
-31/12/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;8598,48;0
-31/12/2020;Resgate;Inter;CDB;CDB Liquidez Diária;4470;0
-31/12/2020;Saídas;MyCap;Cash;MyCap Conta Invest;196,86;0
-01/01/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;4515,64
-31/01/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9825,7
-31/01/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,26
-31/01/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,55
-31/01/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;9772,74;0
-31/01/2021;Resgate;Inter;CDB;CDB Liquidez Diária;600;0
-31/01/2021;Saídas;XP;Cash;XP Conta Invest;241,8;0
-01/02/2021;Entradas;XP;Cash;XP Conta Invest;0;411,4
-12/02/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;196293,8
-18/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;73000;0
-28/02/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;7948,25
-28/02/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;127000
-28/02/2021;Aplicação;MyCap;Crypto;Hashdex;0;3000
-28/02/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,26
-28/02/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;79,87
-28/02/2021;Rendimentos;MyCap;Crypto;Hashdex;49,94;0
-28/02/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;7101,64;0
-28/02/2021;Resgate;Inter;CDB;CDB Liquidez Diária;6400;0
-28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;3455,43;0
-28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;120991,18;0
-09/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;378;0
-11/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;827;0
-19/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1097,62;0
-31/03/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4033,91
-31/03/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,17
-31/03/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;50,43
-31/03/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;3,19
-31/03/2021;Rendimentos;MyCap;Crypto;Hashdex;0;145,39
-31/03/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;5157,16;0
-31/03/2021;Resgate;Inter;CDB;CDB Liquidez Diária;58910;0
-31/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1000,2;0
-31/03/2021;Saídas;XP;Cash;XP Conta Invest;697,47;0
-01/04/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;7159,33
-01/04/2021;Entradas;XP;Cash;XP Conta Invest;0;117,48
-30/04/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6280,04
-30/04/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,67
-30/04/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;93,95
-30/04/2021;Rendimentos;MyCap;Crypto;Hashdex;10,5;0
-30/04/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;4837,85;0
-30/04/2021;Resgate;Inter;CDB;CDB Liquidez Diária;22160;0
-30/04/2021;Resgate;Inter PJ;CDB;CDB Liquidez Diária;340;0
-30/04/2021;Resgate;MyCap;Crypto;Hashdex;3084,95;0
-31/05/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;855,9
-31/05/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;3000
-31/05/2021;Saídas;MyCap;Cash;MyCap Conta Invest;6947,04;0
-31/05/2021;Saídas;XP;Cash;XP Conta Invest;4,31;0
-01/06/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;376,39
-01/06/2021;Entradas;XP;Cash;XP Conta Invest;0;236,06
-30/06/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13287,23
-30/06/2021;Resgate;Inter;CDB;CDB Liquidez Diária;780;0
-01/07/2021;Entradas;XP;Cash;XP Conta Invest;0;20690,43
-13/07/2021;Aplicação;XP;CDB;XP Investback;0;52,12
-31/07/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;201,1
-31/07/2021;Resgate;Inter;CDB;CDB Liquidez Diária;16240;0
-31/07/2021;Saídas;MyCap;Cash;MyCap Conta Invest;579,73;0
-01/08/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;519,9
-31/08/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;664
-31/08/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;36000
-31/08/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;40,78
-31/08/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;591,75
-31/08/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;12,61
-31/08/2021;Rendimentos;XP;CDB;XP Investback;0;0,35
-31/08/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;14320,42;0
-31/08/2021;Resgate;Inter;CDB;CDB Liquidez Diária;540;0
-31/08/2021;Saídas;XP;Cash;XP Conta Invest;21207,12;0
-01/09/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;1030,62
-01/09/2021;Entradas;XP;Cash;XP Conta Invest;0;293,3
-13/09/2021;Aplicação;XP;CDB;XP Investback;0;124,19
-30/09/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10668,78
-30/09/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;6300
-30/09/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,88
-30/09/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;287,18
-30/09/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;3,33
-30/09/2021;Rendimentos;XP;CDB;XP Investback;0;0,6
-30/09/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;9780,48;0
-30/09/2021;Resgate;Inter;CDB;CDB Liquidez Diária;26400;0
-13/10/2021;Aplicação;XP;CDB;XP Investback;0;58,57
-29/10/2021;Rendimentos;XP;CDB;XP Investback;0;1,12
-31/10/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5944,21
-31/10/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9,38
-31/10/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;293,2
-31/10/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;4,17
-31/10/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;8186,47;0
-31/10/2021;Resgate;Inter;CDB;CDB Liquidez Diária;4300;0
-31/10/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1699,96;0
-31/10/2021;Saídas;XP;Cash;XP Conta Invest;338,65;0
-01/11/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;119,71
-11/11/2021;Aplicação;XP;CDB;XP Investback;0;66,37
-30/11/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9058,26
-30/11/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;900
-30/11/2021;Aplicação;Vitreo;CDB;Vitreo CDB 24/11/2022;0;10000
-30/11/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;4,45
-30/11/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;36,03
-30/11/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;4,59
-30/11/2021;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;13,69
-30/11/2021;Rendimentos;XP;CDB;XP Investback;0;1,13
-30/11/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;8595,15;0
-30/11/2021;Resgate;Inter;CDB;CDB Liquidez Diária;2720;0
-30/11/2021;Saídas;XP;Cash;XP Conta Invest;11,88;0
-01/12/2021;Entradas;XP;Cash;XP Conta Invest;0;559,36
-14/12/2021;Aplicação;XP;CDB;XP Investback;0;74,67
-29/12/2021;Rendimentos;XP;CDB;XP Investback;0;2,39
-31/12/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;15869,64
-31/12/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;6,38
-31/12/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;211,26
-31/12/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;5,74
-31/12/2021;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;81,31
-31/12/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;17188,15;0
-31/12/2021;Resgate;Inter;CDB;CDB Liquidez Diária;15700;0
-31/12/2021;Saídas;MyCap;Cash;MyCap Conta Invest;104,6;0
-01/01/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;53,16
-11/01/2022;Aplicação;XP;CDB;XP Investback;0;91,94
-14/01/2022;Entradas;Vitreo;Cash;Vitreo Conta Invest;0;150
-31/01/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;41710,52
-31/01/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;14,18
-31/01/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;174,85
-31/01/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;6,08
-31/01/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;94,82
-31/01/2022;Rendimentos;XP;CDB;XP Investback;0;3,51
-31/01/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;41356,49;0
-31/01/2022;Saídas;XP;Cash;XP Conta Invest;370,45;0
-01/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12355,15
-01/02/2022;Aplicação;XP;CDB;XP Investback;0;79,52
-01/02/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;90,08
-01/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;11641,51;0
-01/02/2022;Resgate;Inter;CDB;CDB Liquidez Diária;5370;0
-01/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0
-28/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;7,23
-28/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;199,97
-28/02/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;5,89
-28/02/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;89,42
-28/02/2022;Rendimentos;XP;CDB;XP Investback;0;4,55
-28/02/2022;Saídas;XP;Cash;XP Conta Invest;68,8;0
-01/03/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12704,52
-01/03/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;16100
-01/03/2022;Aplicação;Inter;LCA;Inter LCA 16/03/2023;0;5000
-01/03/2022;Aplicação;XP;CDB;XP Investback;0;73,39
+01/01/2016;Saldo Inicial;BB;REF DI;BB Ref DI Plus Est;0;1677,31;BRL
+31/01/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;25000;BRL
+31/01/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;103,37;BRL
+31/01/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;16731,09;0;BRL
+29/02/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000;BRL
+29/02/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;89,02;BRL
+29/02/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;7158,62;0;BRL
+31/03/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;46500;BRL
+31/03/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;127,05;BRL
+31/03/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;9056,55;0;BRL
+01/04/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;107,27;BRL
+30/04/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9000;BRL
+30/04/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;406,01;BRL
+30/04/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;15006,63;0;BRL
+31/05/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5000;BRL
+31/05/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;309,65;BRL
+31/05/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;14127,77;0;BRL
+31/05/2016;Saídas;MyCap;Cash;MyCap Conta Invest;93,99;0;BRL
+30/06/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000;BRL
+30/06/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;327,35;BRL
+30/06/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;11158,08;0;BRL
+30/06/2016;Saídas;MyCap;Cash;MyCap Conta Invest;13,87;0;BRL
+01/07/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;66,64;BRL
+31/07/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000;BRL
+31/07/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;230,01;BRL
+31/07/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;23712,39;0;BRL
+01/08/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;161,82;BRL
+31/08/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000;BRL
+31/08/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;119,89;BRL
+31/08/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;12991,24;0;BRL
+01/09/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;76,74;BRL
+30/09/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000;BRL
+30/09/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;71,53;BRL
+30/09/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;12471,72;0;BRL
+31/10/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;7900;BRL
+31/10/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;30,11;BRL
+31/10/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;12477,21;0;BRL
+31/10/2016;Saídas;MyCap;Cash;MyCap Conta Invest;233,7;0;BRL
+01/11/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;107,24;BRL
+30/11/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4000;BRL
+30/11/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9,69;BRL
+30/11/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;3925,04;0;BRL
+01/12/2016;Entradas;MyCap;Cash;MyCap Conta Invest;0;41,93;BRL
+31/12/2016;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;18900;BRL
+31/12/2016;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;37,84;BRL
+31/12/2016;Resgate;BB;REF DI;BB Ref DI Plus Est;11291,5;0;BRL
+31/01/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;25000;BRL
+31/01/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;192,04;BRL
+31/01/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;12638,46;0;BRL
+31/01/2017;Saídas;MyCap;Cash;MyCap Conta Invest;172,11;0;BRL
+01/02/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;189,69;BRL
+28/02/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000;BRL
+28/02/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;151,39;BRL
+28/02/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;12712,04;0;BRL
+31/03/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8500;BRL
+31/03/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;123,22;BRL
+31/03/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;14835,86;0;BRL
+31/03/2017;Saídas;MyCap;Cash;MyCap Conta Invest;240,2;0;BRL
+01/04/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;533,45;BRL
+30/04/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6500;BRL
+30/04/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;64,71;BRL
+30/04/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;8324,25;0;BRL
+31/05/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000;BRL
+31/05/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;39,98;BRL
+31/05/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;15791,72;0;BRL
+31/05/2017;Saídas;MyCap;Cash;MyCap Conta Invest;380,68;0;BRL
+30/06/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000;BRL
+30/06/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,63;BRL
+30/06/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;10012,63;0;BRL
+31/07/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000;BRL
+31/07/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;13,59;BRL
+31/07/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;10013,59;0;BRL
+31/07/2017;Saídas;MyCap;Cash;MyCap Conta Invest;63,18;0;BRL
+31/08/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000;BRL
+31/08/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;14,79;BRL
+31/08/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;9559,67;0;BRL
+31/08/2017;Saídas;MyCap;Cash;MyCap Conta Invest;58,99;0;BRL
+01/09/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;2,88;BRL
+30/09/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000;BRL
+30/09/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;22,1;BRL
+30/09/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;11540,8;0;BRL
+31/10/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11000;BRL
+31/10/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;25,51;BRL
+31/10/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;9180,1;0;BRL
+31/10/2017;Saídas;MyCap;Cash;MyCap Conta Invest;7;0;BRL
+01/11/2017;Entradas;MyCap;Cash;MyCap Conta Invest;0;232,05;BRL
+30/11/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5000;BRL
+30/11/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;10,64;BRL
+30/11/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;8792,47;0;BRL
+31/12/2017;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;18000;BRL
+31/12/2017;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;30,3;BRL
+31/12/2017;Resgate;BB;REF DI;BB Ref DI Plus Est;17455,87;0;BRL
+31/12/2017;Saídas;MyCap;Cash;MyCap Conta Invest;125,24;0;BRL
+31/01/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11500;BRL
+31/01/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;10,7;BRL
+31/01/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;11249,44;0;BRL
+31/01/2018;Saídas;MyCap;Cash;MyCap Conta Invest;130,05;0;BRL
+01/02/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;2393,75;BRL
+28/02/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12000;BRL
+28/02/2018;Aplicação;BB PJ;REF DI;Coaching BB Invest;0;2300;BRL
+28/02/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,36;BRL
+28/02/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,67;BRL
+28/02/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;12252,51;0;BRL
+31/03/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000;BRL
+31/03/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;11,92;BRL
+31/03/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3;BRL
+31/03/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;5637,7;0;BRL
+31/03/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;850;0;BRL
+31/03/2018;Saídas;MyCap;Cash;MyCap Conta Invest;1890,29;0;BRL
+30/04/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000;BRL
+30/04/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,11;BRL
+30/04/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,16;BRL
+30/04/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;4566,43;0;BRL
+30/04/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;351,61;0;BRL
+30/04/2018;Saídas;MyCap;Cash;MyCap Conta Invest;125,13;0;BRL
+01/05/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;115,86;BRL
+31/05/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000;BRL
+31/05/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;18,15;BRL
+31/05/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,39;BRL
+31/05/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;8954,36;0;BRL
+31/05/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;849,06;0;BRL
+01/06/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;19240,08;BRL
+30/06/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11000;BRL
+30/06/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;17,59;BRL
+30/06/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,6;BRL
+30/06/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;12213,94;0;BRL
+30/06/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;167,01;0;BRL
+31/07/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;14000;BRL
+31/07/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;34,26;BRL
+31/07/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,26;BRL
+31/07/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;7792,61;0;BRL
+31/07/2018;Saídas;MyCap;Cash;MyCap Conta Invest;19511,2;0;BRL
+01/08/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;59,5;BRL
+31/08/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5600;BRL
+31/08/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;34,52;BRL
+31/08/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,33;BRL
+31/08/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;7475,03;0;BRL
+30/09/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000;BRL
+30/09/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;13,32;BRL
+30/09/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;0,04;BRL
+30/09/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;19172,76;0;BRL
+30/09/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;96,77;0;BRL
+30/09/2018;Saídas;MyCap;Cash;MyCap Conta Invest;39,97;0;BRL
+31/10/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11000;BRL
+31/10/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;19,51;BRL
+31/10/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;9755,02;0;BRL
+31/10/2018;Saídas;MyCap;Cash;MyCap Conta Invest;0,39;0;BRL
+01/11/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;285,85;BRL
+30/11/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11900;BRL
+30/11/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;31,65;BRL
+30/11/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;9597,51;0;BRL
+18/12/2018;Entradas;MyCap;Cash;MyCap Conta Invest;0;123303;BRL
+20/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;123303;0;BRL
+31/12/2018;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13000;BRL
+31/12/2018;Aplicação;BB PJ;REF DI;Coaching BB Invest;0;2400;BRL
+31/12/2018;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;20,83;BRL
+31/12/2018;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;1,23;BRL
+31/12/2018;Resgate;BB;REF DI;BB Ref DI Plus Est;16420,48;0;BRL
+31/12/2018;Resgate;BB PJ;REF DI;Coaching BB Invest;621,07;0;BRL
+31/12/2018;Saídas;MyCap;Cash;MyCap Conta Invest;531,67;0;BRL
+01/01/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;547,38;BRL
+31/01/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;20000;BRL
+31/01/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;34,66;BRL
+31/01/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;7,73;BRL
+31/01/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;14819,86;0;BRL
+31/01/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;384,94;0;BRL
+01/02/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;5050,06;BRL
+28/02/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6000;BRL
+28/02/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;20,75;BRL
+28/02/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;1,85;BRL
+28/02/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;11551,74;0;BRL
+28/02/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;117,23;0;BRL
+31/03/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;14000;BRL
+31/03/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,09;BRL
+31/03/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;3,24;BRL
+31/03/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;14419,46;0;BRL
+31/03/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;50;0;BRL
+31/03/2019;Saídas;MyCap;Cash;MyCap Conta Invest;5293,58;0;BRL
+30/04/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13500;BRL
+30/04/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;12,91;BRL
+30/04/2019;Rendimentos;BB PJ;REF DI;Coaching BB Invest;0;1,6;BRL
+30/04/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;10784,85;0;BRL
+30/04/2019;Resgate;BB PJ;REF DI;Coaching BB Invest;1242,41;0;BRL
+30/04/2019;Saídas;MyCap;Cash;MyCap Conta Invest;98,22;0;BRL
+31/05/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000;BRL
+31/05/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;16,27;BRL
+31/05/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;9814,92;0;BRL
+31/05/2019;Saídas;MyCap;Cash;MyCap Conta Invest;196,06;0;BRL
+01/06/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;27,87;BRL
+30/06/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10000;BRL
+30/06/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;15,88;BRL
+30/06/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;11032,09;0;BRL
+01/07/2019;Entradas;XP;Cash;XP Conta Invest;0;16,63;BRL
+31/07/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9000;BRL
+31/07/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9,09;BRL
+31/07/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;10922,29;0;BRL
+31/07/2019;Saídas;MyCap;Cash;MyCap Conta Invest;15,62;0;BRL
+01/08/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;10;BRL
+01/08/2019;Entradas;XP;Cash;XP Conta Invest;0;147,59;BRL
+31/08/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8000;BRL
+31/08/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;7,1;BRL
+31/08/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;7657,39;0;BRL
+01/09/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;63,95;BRL
+30/09/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5500;BRL
+30/09/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;10800;BRL
+30/09/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,47;BRL
+30/09/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;2,92;BRL
+30/09/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;5858,18;0;BRL
+30/09/2019;Resgate;Inter;CDB;CDB Liquidez Diária;10802,92;0;BRL
+30/09/2019;Saídas;XP;Cash;XP Conta Invest;110,22;0;BRL
+31/10/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6500;BRL
+31/10/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;2500;BRL
+31/10/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;6,97;BRL
+31/10/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;1,3;BRL
+31/10/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;6506,97;0;BRL
+31/10/2019;Resgate;Inter;CDB;CDB Liquidez Diária;2501,3;0;BRL
+31/10/2019;Saídas;MyCap;Cash;MyCap Conta Invest;86,79;0;BRL
+31/10/2019;Saídas;XP;Cash;XP Conta Invest;5,5;0;BRL
+01/11/2019;Entradas;MyCap;Cash;MyCap Conta Invest;0;19,12;BRL
+01/11/2019;Entradas;XP;Cash;XP Conta Invest;0;5,64;BRL
+30/11/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12956,16;BRL
+30/11/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;9800;BRL
+30/11/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,09;BRL
+30/11/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;2,06;BRL
+30/11/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;12915,2;0;BRL
+30/11/2019;Resgate;Inter;CDB;CDB Liquidez Diária;9802,06;0;BRL
+31/12/2019;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;34167,47;BRL
+31/12/2019;Aplicação;Inter;CDB;CDB Liquidez Diária;0;2500;BRL
+31/12/2019;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,32;BRL
+31/12/2019;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;0,21;BRL
+31/12/2019;Resgate;BB;REF DI;BB Ref DI Plus Est;26766,52;0;BRL
+31/12/2019;Resgate;Inter;CDB;CDB Liquidez Diária;2500,21;0;BRL
+31/12/2019;Saídas;MyCap;Cash;MyCap Conta Invest;13,86;0;BRL
+31/12/2019;Saídas;XP;Cash;XP Conta Invest;23,6;0;BRL
+01/01/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;195,16;BRL
+01/01/2020;Entradas;XP;Cash;XP Conta Invest;0;358,01;BRL
+31/01/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;16508,97;BRL
+31/01/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;1000;BRL
+31/01/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;1500;BRL
+31/01/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;1,91;BRL
+31/01/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,29;BRL
+31/01/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;23007,56;0;BRL
+31/01/2020;Resgate;Inter;CDB;CDB Liquidez Diária;870;0;BRL
+31/01/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900;0;BRL
+29/02/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6213,66;BRL
+29/02/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;490;BRL
+29/02/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;950;BRL
+29/02/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,45;BRL
+29/02/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;2,13;BRL
+29/02/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;6092,62;0;BRL
+29/02/2020;Resgate;Inter;CDB;CDB Liquidez Diária;150;0;BRL
+29/02/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;950,31;0;BRL
+29/02/2020;Saídas;MyCap;Cash;MyCap Conta Invest;216,68;0;BRL
+29/02/2020;Saídas;XP;Cash;XP Conta Invest;277,19;0;BRL
+01/03/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;45,46;BRL
+31/03/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8189,74;BRL
+31/03/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;4800;BRL
+31/03/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;900;BRL
+31/03/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,71;BRL
+31/03/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;3,29;BRL
+31/03/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;2,18;BRL
+31/03/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;8123,59;0;BRL
+31/03/2020;Resgate;Inter;CDB;CDB Liquidez Diária;5273,29;0;BRL
+31/03/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900,58;0;BRL
+31/03/2020;Saídas;XP;Cash;XP Conta Invest;77,42;0;BRL
+01/04/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;5,89;BRL
+01/04/2020;Entradas;XP;Cash;XP Conta Invest;0;5,16;BRL
+30/04/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6225,47;BRL
+30/04/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;900;BRL
+30/04/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;900;BRL
+30/04/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,64;BRL
+30/04/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,33;BRL
+30/04/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;6193,32;0;BRL
+30/04/2020;Resgate;Inter;CDB;CDB Liquidez Diária;570;0;BRL
+30/04/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900,35;0;BRL
+01/05/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;69,28;BRL
+01/05/2020;Entradas;XP;Cash;XP Conta Invest;0;52,91;BRL
+31/05/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6502,19;BRL
+31/05/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,28;BRL
+31/05/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;1,1;BRL
+31/05/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,49;BRL
+31/05/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;5235,45;0;BRL
+31/05/2020;Resgate;Inter;CDB;CDB Liquidez Diária;331,1;0;BRL
+01/06/2020;Entradas;XP;Cash;XP Conta Invest;0;149,49;BRL
+30/06/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4515,75;BRL
+30/06/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;2300;BRL
+30/06/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,78;BRL
+30/06/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,49;BRL
+30/06/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;6012,77;0;BRL
+30/06/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900,19;0;BRL
+30/06/2020;Saídas;MyCap;Cash;MyCap Conta Invest;73,42;0;BRL
+31/07/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;36903,78;BRL
+31/07/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;600;BRL
+31/07/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;1850;BRL
+31/07/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,63;BRL
+31/07/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;0,25;BRL
+31/07/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;5,19;BRL
+31/07/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;7608,29;0;BRL
+31/07/2020;Resgate;Inter;CDB;CDB Liquidez Diária;600,25;0;BRL
+31/07/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;850,52;0;BRL
+31/07/2020;Saídas;MyCap;Cash;MyCap Conta Invest;9,85;0;BRL
+31/07/2020;Saídas;XP;Cash;XP Conta Invest;220,86;0;BRL
+01/08/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;313,69;BRL
+01/08/2020;Entradas;XP;Cash;XP Conta Invest;0;195,25;BRL
+31/08/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6326,7;BRL
+31/08/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,21;BRL
+31/08/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;4,04;BRL
+31/08/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;35427,75;0;BRL
+31/08/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;900;0;BRL
+01/09/2020;Entradas;XP;Cash;XP Conta Invest;0;214,23;BRL
+30/09/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4567,78;BRL
+30/09/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,07;BRL
+30/09/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;2,59;BRL
+30/09/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;4457,76;0;BRL
+30/09/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;550;0;BRL
+30/09/2020;Saídas;MyCap;Cash;MyCap Conta Invest;335,11;0;BRL
+01/10/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;251,37;BRL
+01/10/2020;Entradas;XP;Cash;XP Conta Invest;0;225,06;BRL
+31/10/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5454,3;BRL
+31/10/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;8700;BRL
+31/10/2020;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;950;BRL
+31/10/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,25;BRL
+31/10/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;1,26;BRL
+31/10/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,65;BRL
+31/10/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;5677,37;0;BRL
+31/10/2020;Resgate;Inter;CDB;CDB Liquidez Diária;6010;0;BRL
+31/10/2020;Resgate;Inter PJ;CDB;CDB Liquidez Diária;1266,54;0;BRL
+01/11/2020;Entradas;MyCap;Cash;MyCap Conta Invest;0;25;BRL
+30/11/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4847,23;BRL
+30/11/2020;Aplicação;Inter;CDB;CDB Liquidez Diária;0;12400;BRL
+30/11/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,09;BRL
+30/11/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;9,53;BRL
+30/11/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,54;BRL
+30/11/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;5757,51;0;BRL
+30/11/2020;Resgate;Inter;CDB;CDB Liquidez Diária;1550;0;BRL
+30/11/2020;Saídas;XP;Cash;XP Conta Invest;271,65;0;BRL
+01/12/2020;Entradas;XP;Cash;XP Conta Invest;0;378,87;BRL
+31/12/2020;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;8735,94;BRL
+31/12/2020;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,3;BRL
+31/12/2020;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;6,99;BRL
+31/12/2020;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,6;BRL
+31/12/2020;Resgate;BB;REF DI;BB Ref DI Plus Est;8598,48;0;BRL
+31/12/2020;Resgate;Inter;CDB;CDB Liquidez Diária;4470;0;BRL
+31/12/2020;Saídas;MyCap;Cash;MyCap Conta Invest;196,86;0;BRL
+01/01/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;4515,64;BRL
+31/01/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9825,7;BRL
+31/01/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,26;BRL
+31/01/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;1,55;BRL
+31/01/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;9772,74;0;BRL
+31/01/2021;Resgate;Inter;CDB;CDB Liquidez Diária;600;0;BRL
+31/01/2021;Saídas;XP;Cash;XP Conta Invest;241,8;0;BRL
+01/02/2021;Entradas;XP;Cash;XP Conta Invest;0;411,4;BRL
+12/02/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;196293,8;BRL
+18/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;73000;0;BRL
+28/02/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;7948,25;BRL
+28/02/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;127000;BRL
+28/02/2021;Aplicação;MyCap;Crypto;Hashdex;0;3000;BRL
+28/02/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,26;BRL
+28/02/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;79,87;BRL
+28/02/2021;Rendimentos;MyCap;Crypto;Hashdex;49,94;0;BRL
+28/02/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;7101,64;0;BRL
+28/02/2021;Resgate;Inter;CDB;CDB Liquidez Diária;6400;0;BRL
+28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;3455,43;0;BRL
+28/02/2021;Saídas;MyCap;Cash;MyCap Conta Invest;120991,18;0;BRL
+09/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;378;0;BRL
+11/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;827;0;BRL
+19/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1097,62;0;BRL
+31/03/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;4033,91;BRL
+31/03/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,17;BRL
+31/03/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;50,43;BRL
+31/03/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;3,19;BRL
+31/03/2021;Rendimentos;MyCap;Crypto;Hashdex;0;145,39;BRL
+31/03/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;5157,16;0;BRL
+31/03/2021;Resgate;Inter;CDB;CDB Liquidez Diária;58910;0;BRL
+31/03/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1000,2;0;BRL
+31/03/2021;Saídas;XP;Cash;XP Conta Invest;697,47;0;BRL
+01/04/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;7159,33;BRL
+01/04/2021;Entradas;XP;Cash;XP Conta Invest;0;117,48;BRL
+30/04/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;6280,04;BRL
+30/04/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,67;BRL
+30/04/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;93,95;BRL
+30/04/2021;Rendimentos;MyCap;Crypto;Hashdex;10,5;0;BRL
+30/04/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;4837,85;0;BRL
+30/04/2021;Resgate;Inter;CDB;CDB Liquidez Diária;22160;0;BRL
+30/04/2021;Resgate;Inter PJ;CDB;CDB Liquidez Diária;340;0;BRL
+30/04/2021;Resgate;MyCap;Crypto;Hashdex;3084,95;0;BRL
+31/05/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;855,9;BRL
+31/05/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;3000;BRL
+31/05/2021;Saídas;MyCap;Cash;MyCap Conta Invest;6947,04;0;BRL
+31/05/2021;Saídas;XP;Cash;XP Conta Invest;4,31;0;BRL
+01/06/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;376,39;BRL
+01/06/2021;Entradas;XP;Cash;XP Conta Invest;0;236,06;BRL
+30/06/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;13287,23;BRL
+30/06/2021;Resgate;Inter;CDB;CDB Liquidez Diária;780;0;BRL
+01/07/2021;Entradas;XP;Cash;XP Conta Invest;0;20690,43;BRL
+13/07/2021;Aplicação;XP;CDB;XP Investback;0;52,12;BRL
+31/07/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;201,1;BRL
+31/07/2021;Resgate;Inter;CDB;CDB Liquidez Diária;16240;0;BRL
+31/07/2021;Saídas;MyCap;Cash;MyCap Conta Invest;579,73;0;BRL
+01/08/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;519,9;BRL
+31/08/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;664;BRL
+31/08/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;36000;BRL
+31/08/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;40,78;BRL
+31/08/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;591,75;BRL
+31/08/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;12,61;BRL
+31/08/2021;Rendimentos;XP;CDB;XP Investback;0;0,35;BRL
+31/08/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;14320,42;0;BRL
+31/08/2021;Resgate;Inter;CDB;CDB Liquidez Diária;540;0;BRL
+31/08/2021;Saídas;XP;Cash;XP Conta Invest;21207,12;0;BRL
+01/09/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;1030,62;BRL
+01/09/2021;Entradas;XP;Cash;XP Conta Invest;0;293,3;BRL
+13/09/2021;Aplicação;XP;CDB;XP Investback;0;124,19;BRL
+30/09/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;10668,78;BRL
+30/09/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;6300;BRL
+30/09/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,88;BRL
+30/09/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;287,18;BRL
+30/09/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;3,33;BRL
+30/09/2021;Rendimentos;XP;CDB;XP Investback;0;0,6;BRL
+30/09/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;9780,48;0;BRL
+30/09/2021;Resgate;Inter;CDB;CDB Liquidez Diária;26400;0;BRL
+13/10/2021;Aplicação;XP;CDB;XP Investback;0;58,57;BRL
+29/10/2021;Rendimentos;XP;CDB;XP Investback;0;1,12;BRL
+31/10/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;5944,21;BRL
+31/10/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9,38;BRL
+31/10/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;293,2;BRL
+31/10/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;4,17;BRL
+31/10/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;8186,47;0;BRL
+31/10/2021;Resgate;Inter;CDB;CDB Liquidez Diária;4300;0;BRL
+31/10/2021;Saídas;MyCap;Cash;MyCap Conta Invest;1699,96;0;BRL
+31/10/2021;Saídas;XP;Cash;XP Conta Invest;338,65;0;BRL
+01/11/2021;Entradas;MyCap;Cash;MyCap Conta Invest;0;119,71;BRL
+11/11/2021;Aplicação;XP;CDB;XP Investback;0;66,37;BRL
+30/11/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;9058,26;BRL
+30/11/2021;Aplicação;Inter;CDB;CDB Liquidez Diária;0;900;BRL
+30/11/2021;Aplicação;Vitreo;CDB;Vitreo CDB 24/11/2022;0;10000;BRL
+30/11/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;4,45;BRL
+30/11/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;36,03;BRL
+30/11/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;4,59;BRL
+30/11/2021;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;13,69;BRL
+30/11/2021;Rendimentos;XP;CDB;XP Investback;0;1,13;BRL
+30/11/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;8595,15;0;BRL
+30/11/2021;Resgate;Inter;CDB;CDB Liquidez Diária;2720;0;BRL
+30/11/2021;Saídas;XP;Cash;XP Conta Invest;11,88;0;BRL
+01/12/2021;Entradas;XP;Cash;XP Conta Invest;0;559,36;BRL
+14/12/2021;Aplicação;XP;CDB;XP Investback;0;74,67;BRL
+29/12/2021;Rendimentos;XP;CDB;XP Investback;0;2,39;BRL
+31/12/2021;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;15869,64;BRL
+31/12/2021;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;6,38;BRL
+31/12/2021;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;211,26;BRL
+31/12/2021;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;5,74;BRL
+31/12/2021;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;81,31;BRL
+31/12/2021;Resgate;BB;REF DI;BB Ref DI Plus Est;17188,15;0;BRL
+31/12/2021;Resgate;Inter;CDB;CDB Liquidez Diária;15700;0;BRL
+31/12/2021;Saídas;MyCap;Cash;MyCap Conta Invest;104,6;0;BRL
+01/01/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;53,16;BRL
+11/01/2022;Aplicação;XP;CDB;XP Investback;0;91,94;BRL
+14/01/2022;Entradas;Vitreo;Cash;Vitreo Conta Invest;0;150;BRL
+31/01/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;41710,52;BRL
+31/01/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;14,18;BRL
+31/01/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;174,85;BRL
+31/01/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;6,08;BRL
+31/01/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;94,82;BRL
+31/01/2022;Rendimentos;XP;CDB;XP Investback;0;3,51;BRL
+31/01/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;41356,49;0;BRL
+31/01/2022;Saídas;XP;Cash;XP Conta Invest;370,45;0;BRL
+01/02/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12355,15;BRL
+01/02/2022;Aplicação;XP;CDB;XP Investback;0;79,52;BRL
+01/02/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;90,08;BRL
+01/02/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;11641,51;0;BRL
+01/02/2022;Resgate;Inter;CDB;CDB Liquidez Diária;5370;0;BRL
+01/02/2022;Resgate;Inter PJ;CDB;CDB Liquidez Diária;115;0;BRL
+28/02/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;7,23;BRL
+28/02/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;199,97;BRL
+28/02/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;5,89;BRL
+28/02/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;89,42;BRL
+28/02/2022;Rendimentos;XP;CDB;XP Investback;0;4,55;BRL
+28/02/2022;Saídas;XP;Cash;XP Conta Invest;68,8;0;BRL
+01/03/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;12704,52;BRL
+01/03/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;16100;BRL
+01/03/2022;Aplicação;Inter;LCA;Inter LCA 16/03/2023;0;5000;BRL
+01/03/2022;Aplicação;XP;CDB;XP Investback;0;73,39;BRL
 01/03/2022;Entradas;Inter;Cash;Inter Cash EUA;0;1000;EUA
-01/03/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;1500,82
-01/03/2022;Entradas;XP;Cash;XP Conta Invest;0;520,46
-01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;12353,6;0
-01/03/2022;Resgate;Inter;CDB;CDB Liquidez Diária;10230;0
-01/03/2022;Saídas;MyCap;Cash;MyCap Conta Invest;1600;0
-01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;12726,07;0
-01/03/2022;Saídas;Vitreo;Cash;Vitreo Conta Invest;150;0
-22/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,34
-22/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;137,32
+01/03/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;1500,82;BRL
+01/03/2022;Entradas;XP;Cash;XP Conta Invest;0;520,46;BRL
+01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;12353,6;0;BRL
+01/03/2022;Resgate;Inter;CDB;CDB Liquidez Diária;10230;0;BRL
+01/03/2022;Saídas;MyCap;Cash;MyCap Conta Invest;1600;0;BRL
+01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;12726,07;0;BRL
+01/03/2022;Saídas;Vitreo;Cash;Vitreo Conta Invest;150;0;BRL
+22/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,34;BRL
+22/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;137,32;BRL
