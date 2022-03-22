@@ -487,5 +487,5 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred
 01/03/2022;Saídas;MyCap;Cash;MyCap Conta Invest;1600;0
 01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;12659,54;0
 01/03/2022;Saídas;Vitreo;Cash;Vitreo Conta Invest;150;0
-21/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,08
-21/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;126,95
+22/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,34
+22/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;137,32
