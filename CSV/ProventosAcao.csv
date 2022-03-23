@@ -534,3 +534,5 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 17/03/2022;MyCap;Ação;EGIE3;6,25;6,25;0;BRL;JCP
 17/03/2022;XP;FII;RBRR11;66;66;0;BRL;Dividendos
 22/03/2022;Stake;Stock;BWA;1,07;1,53;0,46;EUA;Dividendos
+23/03/2022;MyCap;Ação;MYPK3;119,8;119,8;0;BRL;Dividendos
+23/03/2022;MyCap;Ação;MYPK3;256,42;256,42;0;BRL;JCP
