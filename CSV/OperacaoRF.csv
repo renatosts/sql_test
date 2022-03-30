@@ -484,10 +484,10 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
 01/03/2022;Entradas;Inter;Cash;Inter Cash EUA;0;1000;EUA
 01/03/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;1889,39;BRL
 01/03/2022;Entradas;XP;Cash;XP Conta Invest;0;29,05;BRL
-01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;13033,6;0;BRL
+01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;13807,53;0;BRL
 01/03/2022;Resgate;Inter;CDB;CDB Liquidez Diária;40440,48;0;BRL
 01/03/2022;Saídas;MyCap;Cash;MyCap Conta Invest;2000;0;BRL
-01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;13409,86;0;BRL
+01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;15210,02;0;BRL
 01/03/2022;Saídas;Vitreo;Cash;Vitreo Conta Invest;150;0;BRL
-25/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,95;BRL
-25/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;154,21;BRL
+30/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,99;BRL
+30/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;154,21;BRL
