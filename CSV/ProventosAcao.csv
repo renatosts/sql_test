@@ -541,3 +541,5 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 25/03/2022;XP;FII;XPML11;32,64;32,64;0;BRL;Dividendos
 25/03/2022;XP;FII;ALZR11;36,64;36,64;0;BRL;Dividendos
 30/03/2022;Stake;Stock;VOO;0,96;1,37;0,41;EUA;Dividendos
+31/03/2022;MyCap;Ação;BBAS3;17,91;17,91;0;BRL;JCP
+31/03/2022;Stake;Stock;DEM;1,29;1,85;0,56;EUA;Dividendos
