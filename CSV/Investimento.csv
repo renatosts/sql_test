@@ -1,36 +1,36 @@
 inv_nome;inv_book;inv_liquidez;inv_cnpj
-Ação;Ações/Stock;Curto Prazo
-FII;FII/REIT;Curto Prazo
-Crypto;Crypto;Curto Prazo
-Stock;Ações/Stock;Curto Prazo
-REIT;FII/REIT;Curto Prazo
-Tesouro Direto;Tesouro Direto;Curto Prazo
-Orama Trigono 60 Flagship;Ações/Stock;Médio Prazo;35.471.498/0001-55
-Orama Trigono Flagship SmallCaps;Ações/Stock;Médio Prazo;29.177.013/0001-12
-Vitreo Agro;Agro;Médio Prazo;42.190.534/0001-78
-Vitreo Coin NFT;Coin NFT;Médio Prazo;43.508.446/0001-34
-Vitreo Dolar;Ouro/Dolar;Médio Prazo;33.952.939/0001-05
-Vitreo Exponencial Light;Ações/Stock;Médio Prazo;34.218.752/0001-45
-Vitreo Oportunidades de Uma Vida;Ações/Stock;Médio Prazo;34.218.763/0001-25
-Vitreo Ouro;Ouro/Dolar;Médio Prazo;33.925.149/0001-30
-Vitreo Tech Asia;Ações/Stock;Médio Prazo;38.440.156/0001-66
-Vitreo Tech Select;Ações/Stock;Médio Prazo;36.017.669/0001-33
-Vitreo Uranio;Uranio;Médio Prazo;40.503.169/0001-89
-Vitreo PGBL FoF SuperPrevidência 2;Previdência;Médio Prazo;33.269.171/0001-70
-XP Alaska Black;Ações/Stock;Médio Prazo;26.673.556/0001-32
-XP Equitas Selection;Ações/Stock;Médio Prazo;12.004.203/0001-35
-XP Indie;Ações/Stock;Médio Prazo;17.335.646/0001-22
-XP Moat Capital Equity Hedge;Ações/Stock;Médio Prazo;24.140.256/0001-62
-XP Trend Ouro;Ouro/Dolar;Médio Prazo;22.963.439/0001-52
-XP Trend Ouro Dolar;Ouro/Dolar;Médio Prazo;35.609.786/0001-23
-CDB Liquidez Diária;Reserva Emergência;Imediata
-XP Investback;CDB/LCA/LCI;Imediata
-BB Ref DI Plus Est;Reserva Emergência;Imediata
-Inter LCA 16/03/2023;CDB/LCA/LCI;Longo Prazo
-Vitreo CDB 24/11/2022;CDB/LCA/LCI;Longo Prazo
-Vitreo LCA 23/03/2023;CDB/LCA/LCI;Longo Prazo
-MyCap Conta Invest;Cash;Imediata
-Vitreo Conta Invest;Cash;Imediata
-XP Conta Invest;Cash;Imediata
-Cartão de Crédito;Cash;Curto Prazo
-Inter Cash EUA;Cash;Curto Prazo
+Ação;Ações/Stock;01 Curto Prazo
+FII;FII/REIT;01 Curto Prazo
+Crypto;Crypto;01 Curto Prazo
+Stock;Ações/Stock;01 Curto Prazo
+REIT;FII/REIT;01 Curto Prazo
+Tesouro Direto;Tesouro Direto;01-Curto Prazo
+Orama Trigono 60 Flagship;Ações/Stock;02 Médio Prazo;35.471.498/0001-55
+Orama Trigono Flagship SmallCaps;Ações/Stock;02 Médio Prazo;29.177.013/0001-12
+Vitreo Agro;Agro;02 Médio Prazo;42.190.534/0001-78
+Vitreo Coin NFT;Coin NFT;02 Médio Prazo;43.508.446/0001-34
+Vitreo Dolar;Ouro/Dolar;02 Médio Prazo;33.952.939/0001-05
+Vitreo Exponencial Light;Ações/Stock;02 Médio Prazo;34.218.752/0001-45
+Vitreo Oportunidades de Uma Vida;Ações/Stock;02 Médio Prazo;34.218.763/0001-25
+Vitreo Ouro;Ouro/Dolar;02 Médio Prazo;33.925.149/0001-30
+Vitreo Tech Asia;Ações/Stock;02 Médio Prazo;38.440.156/0001-66
+Vitreo Tech Select;Ações/Stock;02 Médio Prazo;36.017.669/0001-33
+Vitreo Uranio;Uranio;02 Médio Prazo;40.503.169/0001-89
+Vitreo PGBL FoF SuperPrevidência 2;Previdência;02 Médio Prazo;33.269.171/0001-70
+XP Alaska Black;Ações/Stock;02 Médio Prazo;26.673.556/0001-32
+XP Equitas Selection;Ações/Stock;02 Médio Prazo;12.004.203/0001-35
+XP Indie;Ações/Stock;02 Médio Prazo;17.335.646/0001-22
+XP Moat Capital Equity Hedge;Ações/Stock;02 Médio Prazo;24.140.256/0001-62
+XP Trend Ouro;Ouro/Dolar;02 Médio Prazo;22.963.439/0001-52
+XP Trend Ouro Dolar;Ouro/Dolar;02 Médio Prazo;35.609.786/0001-23
+CDB Liquidez Diária;Reserva Emergência;00 Imediata
+XP Investback;CDB/LCA/LCI;00 Imediata
+BB Ref DI Plus Est;Reserva Emergência;00 Imediata
+Inter LCA 16/03/2023;CDB/LCA/LCI;03 Longo Prazo
+Vitreo CDB 24/11/2022;CDB/LCA/LCI;03 Longo Prazo
+Vitreo LCA 23/03/2023;CDB/LCA/LCI;03 Longo Prazo
+MyCap Conta Invest;Cash;00 Imediata
+Vitreo Conta Invest;Cash;00 Imediata
+XP Conta Invest;Cash;00 Imediata
+Cartão de Crédito;Cash;01 Curto Prazo
+Inter Cash EUA;Cash;01 Curto Prazo
