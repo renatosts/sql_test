@@ -498,10 +498,10 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
 31/03/2022;Rendimentos;Vitreo;CDB;Vitreo LCA 23/03/2023;0;13,93;BRL
 01/04/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;1176,78;BRL
 01/04/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;9000;BRL
-01/04/2022;Aplicação;Inter;Cash;Inter Cash EUA;0;135,53;EUA
 01/04/2022;Entradas;Passivos;Cash;Cartão de Crédito;0;18342,37;BRL
 01/04/2022;Entradas;Passivos;Cash;Cartão de Crédito;0;3564,71;BRL
 01/04/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;1056;0;BRL
+01/04/2022;Saídas;Inter;Cash;Inter Cash EUA;135,53;0;EUA
 01/04/2022;Saídas;MyCap;Cash;MyCap Conta Invest;60,59;0;BRL
 01/04/2022;Saídas;Passivos;Cash;Cartão de Crédito;17783,15;0;BRL
 05/04/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,01;BRL
