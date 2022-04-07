@@ -500,7 +500,7 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
 01/04/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;9000;BRL
 01/04/2022;Entradas;Passivos;Cash;Cartão de Crédito;0;18342,37;BRL
 01/04/2022;Entradas;Passivos;Cash;Cartão de Crédito;0;1305,38;BRL
-01/04/2022;Entradas;Stake;Cash;Stake Cash EUA;0;23;EUA
+01/04/2022;Entradas;Stake;Cash;Stake Conta Invest EUA;0;23;EUA
 01/04/2022;Entradas;XP;Cash;XP Conta Invest;0;58,04;BRL
 01/04/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;1126;0;BRL
 01/04/2022;Saídas;Inter;Cash;Inter Cash EUA;135,53;0;EUA
