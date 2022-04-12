@@ -485,7 +485,6 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
 01/03/2022;Entradas;MyCap;Cash;MyCap Conta Invest;0;1907,3;BRL
 01/03/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;14183,11;0;BRL
 01/03/2022;Resgate;Inter;CDB;CDB Liquidez Diária;40440,48;0;BRL
-01/03/2022;Resgate;XP;CDB;XP Investback;1,78;0;BRL
 01/03/2022;Saídas;MyCap;Cash;MyCap Conta Invest;2000;0;BRL
 01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;18342,37;0;BRL
 01/03/2022;Saídas;Vitreo;Cash;Vitreo Conta Invest;150;0;BRL
@@ -496,6 +495,7 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
 31/03/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;6,26;BRL
 31/03/2022;Rendimentos;Vitreo;CDB;Vitreo CDB 24/11/2022;0;111,14;BRL
 31/03/2022;Rendimentos;Vitreo;CDB;Vitreo LCA 23/03/2023;0;13,93;BRL
+31/03/2022;Rendimentos;XP;CDB;XP Investback;0;1,78;BRL
 01/04/2022;Aplicação;BB;REF DI;BB Ref DI Plus Est;0;11294,16;BRL
 01/04/2022;Aplicação;Inter;CDB;CDB Liquidez Diária;0;9000;BRL
 01/04/2022;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;200;BRL
