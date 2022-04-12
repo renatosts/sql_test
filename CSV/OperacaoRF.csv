@@ -489,7 +489,7 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
 01/03/2022;Saídas;Passivos;Cash;Cartão de Crédito;18342,37;0;BRL
 01/03/2022;Saídas;Vitreo;Cash;Vitreo Conta Invest;150;0;BRL
 01/03/2022;Saídas;XP;Cash;XP Conta Invest;120,95;0;BRL
-31/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;9;BRL
+31/03/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;8,99;BRL
 31/03/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;154,21;BRL
 31/03/2022;Rendimentos;Inter;LCA;Inter LCA 16/03/2023;0;24,59;BRL
 31/03/2022;Rendimentos;Inter PJ;CDB;CDB Liquidez Diária;0;6,26;BRL
