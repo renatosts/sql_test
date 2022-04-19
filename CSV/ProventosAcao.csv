@@ -564,3 +564,8 @@ prov_data;prov_corret;prov_tipo;prov_ticker;prov_valor;prov_bruto;prov_ir;prov_m
 14/04/2022;XP;FII;VRTA11;92;92;0;BRL;Dividendos
 14/04/2022;XP;FII;XPLG11;32,34;32,34;0;BRL;Dividendos
 18/04/2022;Stake;REIT;WPC;2,96;4,23;1,27;EUA;Dividendos
+19/04/2022;Stake;REIT;EPR;1,15;1,65;0,5;EUA;Dividendos
+19/04/2022;Stake;REIT;HST;0,29;0,42;0,13;EUA;Dividendos
+19/04/2022;Stake;REIT;O;0,69;0,99;0,3;EUA;Dividendos
+19/04/2022;Stake;REIT;STAG;0,51;0,73;0,22;EUA;Dividendos
+19/04/2022;XP;FII;RBRR11;72;72;0;BRL;Dividendos
