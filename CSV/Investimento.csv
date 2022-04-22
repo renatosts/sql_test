@@ -1,10 +1,10 @@
 inv_nome;inv_book;inv_liquidez_sort;inv_liquidez;inv_cnpj
-Ação;Ações/Stock;2;Curto Prazo
-FII;FII/REIT;2;Curto Prazo
-Crypto;Crypto;2;Curto Prazo
-Stock;Ações/Stock;2;Curto Prazo
-REIT;FII/REIT;2;Curto Prazo
-Tesouro Direto;Tesouro Direto;2;Curto Prazo
+Ação;Ações/Stock;1;Curto Prazo
+FII;FII/REIT;1;Curto Prazo
+Crypto;Crypto;1;Curto Prazo
+Stock;Ações/Stock;1;Curto Prazo
+REIT;FII/REIT;1;Curto Prazo
+Tesouro Direto;Tesouro Direto;1;Curto Prazo
 Orama Trigono 60 Flagship;Ações/Stock;3;Médio Prazo;35.471.498/0001-55
 Orama Trigono Flagship SmallCaps;Ações/Stock;3;Médio Prazo;29.177.013/0001-12
 Vitreo Agro;Agro;3;Médio Prazo;42.190.534/0001-78
@@ -32,6 +32,6 @@ Vitreo LCA 23/03/2023;CDB/LCA/LCI;4;Longo Prazo
 MyCap Conta Invest;Cash;0;Imediata
 Vitreo Conta Invest;Cash;0;Imediata
 XP Conta Invest;Cash;0;Imediata
-Cartão de Crédito;Cash;1;Cartão de Crédito a vencer
-Inter Conta Invest EUA;Cash;2;Curto Prazo
-Stake Conta Invest EUA;Cash;2;Curto Prazo
+Cartão de Crédito;Cash;2;Cartão de Crédito a vencer
+Inter Conta Invest EUA;Cash;1;Curto Prazo
+Stake Conta Invest EUA;Cash;1;Curto Prazo
