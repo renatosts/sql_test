@@ -501,14 +501,14 @@ rf_data;rf_oper;rf_corret;rf_tipo;rf_nome;rf_valor_deb;rf_valor_cred;rf_moeda
 01/04/2022;Aplicação;Inter PJ;CDB;CDB Liquidez Diária;0;200;BRL
 01/04/2022;Aplicação;XP;CDB;XP Investback;0;101,76;BRL
 01/04/2022;Entradas;Passivos;Cash;Cartão de Crédito;0;18342,37;BRL
-01/04/2022;Entradas;Passivos;Cash;Cartão de Crédito;0;2079,17;BRL
+01/04/2022;Entradas;Passivos;Cash;Cartão de Crédito;0;2194,87;BRL
 01/04/2022;Entradas;Stake;Cash;Stake Conta Invest EUA;0;27,37;EUA
 01/04/2022;Entradas;XP;Cash;XP Conta Invest;0;535,96;BRL
 01/04/2022;Resgate;BB;REF DI;BB Ref DI Plus Est;12144,09;0;BRL
 01/04/2022;Resgate;Inter;CDB;CDB Liquidez Diária;1400;0;BRL
 01/04/2022;Saídas;Inter;Cash;Inter Conta Invest EUA;994,35;0;EUA
-01/04/2022;Saídas;MyCap;Cash;MyCap Conta Invest;37,69;0;BRL
-01/04/2022;Saídas;Passivos;Cash;Cartão de Crédito;11864,17;0;BRL
-19/04/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,13;BRL
-19/04/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;9,79;BRL
-19/04/2022;Rendimentos;Inter;LCA;Inter LCA 16/03/2023;0;20,22;BRL
+01/04/2022;Saídas;MyCap;Cash;MyCap Conta Invest;32,39;0;BRL
+01/04/2022;Saídas;Passivos;Cash;Cartão de Crédito;12498,51;0;BRL
+22/04/2022;Rendimentos;BB;REF DI;BB Ref DI Plus Est;0;0,13;BRL
+22/04/2022;Rendimentos;Inter;CDB;CDB Liquidez Diária;0;9,79;BRL
+22/04/2022;Rendimentos;Inter;LCA;Inter LCA 16/03/2023;0;20,22;BRL
